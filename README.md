@@ -20,7 +20,7 @@ After that you might have to put the generated file to `/usr/bin/` names as `i3l
 
 > [Some extra info for polybar if you compile from sources](https://github.com/polybar/polybar/wiki/Compiling)
 
-After that, deploy the dotfiles in your system this way: `sh install.sh`.
+After that, deploy the dotfiles in your system this way: `sh dotfiles.sh`.
 
 ## Preview
 ![preview](preview.png)
