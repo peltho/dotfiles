@@ -1,0 +1,219 @@
+# i3 config file (v4)
+#
+# Please see https://i3wm.org/docs/userguide.html for a complete reference!
+set $super Mod4
+set $alt Mod1
+
+# Font for window titles. Will also be used by the bar unless a different font
+# is used in the bar {} block below.
+font pango:monospace 8
+
+# start mopidy server
+exec --no-startup-id mopidy
+# autostart background
+exec  --no-startup-id feh --bg-fill $HOME/Images/background
+# Transparency
+exec --no-startup-id picom -b
+# Theming
+exec --no-startup-id wal -i $HOME/Images/background
+# warm screen
+exec --no-startup-id redshift -l 43.4957613:5.8881646000000005
+# toggle mpc play/pause
+bindsym $alt+p exec mpc --port 6601 toggle
+
+# To use gaps
+for_window [class=".*"] border pixel 0
+
+#smart_gaps on
+gaps inner 20
+gaps bottom 32
+hide_edge_borders smart
+
+for_window [workspace="5"] floating enable
+assign [class="Opera"] 3
+assign [class="zoom"] 5
+
+# class                 border  backgr. text    indicator child_border
+#client.focused          #02FFD0 #000000 #ffffff #02FFD0   #02FFD0
+
+bindsym XF86MonBrightnessUp exec xbacklight -inc 5
+bindsym XF86MonBrightnessDown exec xbacklight -dec 5
+bindsym XF86AudioRaiseVolume exec amixer -q sset Master 5%+
+bindsym XF86AudioLowerVolume exec amixer -q sset Master 5%-
+bindsym XF86AudioMute exec amixer -q sset Master toggle
+
+# This font is widely installed, provides lots of unicode glyphs, right-to-left
+# text rendering and scalability on retina/hidpi displays (thanks to pango).
+#font pango:DejaVu Sans Mono 8
+
+# The combination of xss-lock, nm-applet and pactl is a popular choice, so
+# they are included here as an example. Modify as you see fit.
+
+# xss-lock grabs a logind suspend inhibit lock and will use i3lock to lock the
+# screen before suspend. Use loginctl lock-session to lock your screen.
+exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
+bindsym $super+l exec i3lock-fancy 5 3
+
+# Suspend after a given time
+exec --no-startup-id xautolock -time 10 -locker "i3lock-fancy 5 3 && systemctl suspend"
+
+# NetworkManager is the most popular way to manage wireless networks on Linux,
+# and nm-applet is a desktop environment-independent system tray GUI for it.
+#exec --no-startup-id nm-applet
+
+# Use pactl to adjust volume in PulseAudio.
+#set $refresh_i3status killall -SIGUSR1 i3status
+#bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +10% && $refresh_i3status
+#bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ -10% && $refresh_i3status
+#bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle && $refresh_i3status
+#bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOURCE@ toggle && $refresh_i3status
+
+# Use Mouse+$alt to drag floating windows to their wanted position
+floating_modifier $alt
+
+# start a terminal
+bindsym $alt+Return exec termite 
+
+# screenshot
+bindsym Print exec "flameshot gui"
+
+# start a web browser
+bindsym $alt+b exec opera
+
+# kill focused window
+bindsym $alt+Shift+a kill
+
+# start dmenu (a program launcher)
+#bindsym $alt+d exec --no-startup-id dmenu_run
+bindsym $alt+d exec rofi -lines 12 -padding 18 -width 60 -location 0 -show drun -sidebar-mode -columns 3
+# A more modern dmenu replacement is rofi:
+# bindcode $alt+40 exec rofi -modi drun,run -show drun
+# There also is i3-dmenu-desktop which only displays applications shipping a
+# .desktop file. It is a wrapper around dmenu, so you need that installed.
+#bindsym $alt+d exec --no-startup-id i3-dmenu-desktop
+
+bindsym $alt+Tab focus next
+
+# change focus
+bindsym $alt+j focus left
+bindsym $alt+k focus down
+bindsym $alt+l focus up
+bindsym $alt+m focus right
+
+# alternatively, you can use the cursor keys:
+bindsym $alt+Left focus left
+bindsym $alt+Down focus down
+bindsym $alt+Up focus up
+bindsym $alt+Right focus right
+
+# move focused window
+bindsym $alt+Shift+j move left
+bindsym $alt+Shift+k move down
+bindsym $alt+Shift+l move up
+bindsym $alt+Shift+m move right
+
+# alternatively, you can use the cursor keys:
+bindsym $alt+Shift+Left move left
+bindsym $alt+Shift+Down move down
+bindsym $alt+Shift+Up move up
+bindsym $alt+Shift+Right move right
+
+# split in horizontal orientation
+bindsym $alt+h split h
+
+# split in vertical orientation
+bindsym $alt+v split v
+
+# enter fullscreen mode for the focused container
+bindsym $alt+f fullscreen toggle
+
+# change container layout (stacked, tabbed, toggle split)
+bindsym $alt+s layout stacking
+bindsym $alt+z layout tabbed
+bindsym $alt+e layout toggle split
+
+# toggle tiling / floating
+bindsym $alt+Shift+space floating toggle
+
+# change focus between tiling / floating windows
+bindsym $alt+space focus mode_toggle
+
+# focus the parent container
+bindsym $alt+q focus parent
+
+# focus the child container
+#bindsym $alt+d focus child
+
+# Define names for default workspaces for which we configure key bindings later on.
+# We use variables to avoid repeating the names in multiple places.
+set $ws1 "1"
+set $ws2 "2"
+set $ws3 "3"
+set $ws4 "4"
+set $ws5 "5"
+set $ws6 "6"
+set $ws7 "7"
+set $ws8 "8"
+set $ws9 "9"
+set $ws10 "10"
+
+# switch to workspace
+bindsym $alt+ampersand workspace number $ws1
+bindsym $alt+eacute workspace number $ws2
+bindsym $alt+quotedbl workspace number $ws3
+bindsym $alt+apostrophe workspace number $ws4
+bindsym $alt+parenleft workspace number $ws5
+bindsym $alt+minus workspace number $ws6
+bindsym $alt+egrave workspace number $ws7
+bindsym $alt+underscore workspace number $ws8
+bindsym $alt+ccedilla workspace number $ws9
+bindsym $alt+agrave workspace number $ws10
+
+# move focused container to workspace
+bindsym $alt+Shift+ampersand move container to workspace number $ws1
+bindsym $alt+Shift+eacute move container to workspace number $ws2
+bindsym $alt+Shift+quotedbl move container to workspace number $ws3
+bindsym $alt+Shift+apostrophe move container to workspace number $ws4
+bindsym $alt+Shift+5 move container to workspace number $ws5
+bindsym $alt+Shift+minus move container to workspace number $ws6
+bindsym $alt+Shift+egrave move container to workspace number $ws7
+bindsym $alt+Shift+underscore move container to workspace number $ws8
+bindsym $alt+Shift+ccedilla move container to workspace number $ws9
+bindsym $alt+Shift+agrave move container to workspace number $ws10
+
+# reload the configuration file
+bindsym $alt+Shift+c reload
+# restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
+bindsym $alt+Shift+r restart
+# exit i3 (logs you out of your X session)
+bindsym $alt+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"
+
+# resize window (you can also use the mouse for that)
+mode "resize" {
+        # These bindings trigger as soon as you enter the resize mode
+
+        # Pressing left will shrink the window’s width.
+        # Pressing right will grow the window’s width.
+        # Pressing up will shrink the window’s height.
+        # Pressing down will grow the window’s height.
+        bindsym j resize shrink width 10 px or 10 ppt
+        bindsym k resize grow height 10 px or 10 ppt
+        bindsym l resize shrink height 10 px or 10 ppt
+        bindsym m resize grow width 10 px or 10 ppt
+
+        # same bindings, but for the arrow keys
+        bindsym Left resize shrink width 10 px or 10 ppt
+        bindsym Down resize grow height 10 px or 10 ppt
+        bindsym Up resize shrink height 10 px or 10 ppt
+        bindsym Right resize grow width 10 px or 10 ppt
+
+        # back to normal: Enter or Escape or $alt+r
+        bindsym Return mode "default"
+        bindsym Escape mode "default"
+        bindsym $alt+r mode "default"
+}
+
+bindsym $alt+r mode "resize"
+
+# Start polybar
+exec_always --no-startup-id $HOME/.config/polybar/launch.sh

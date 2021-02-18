@@ -1,0 +1,16 @@
+[alias]
+    co = checkout
+	st = status
+	cob = checkout -b
+	po = pull origin
+	fo = fetch origin
+	ct = commit
+	df = diff --color --color-words
+	cp = cherry-pick
+	ss = stash save
+	sa = "!sh -c \"git stash apply stash@{$1}\" -"
+	sp = "!sh -c \"git stash pop stash@{$1}\" -"
+	sl = stash list
+[user]
+    email = thomasp@api.video
+    name = thomasp

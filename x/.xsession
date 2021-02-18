@@ -1,0 +1,32 @@
+#!/bin/sh
+
+[[ -f ~/.xinitrc ]] && . ~/.xinitrc
+
+rofi.modi:                           ssh,window,drun,run
+rofi.sidebar-mode:                   true
+rofi.terminal:                       termite
+rofi.ssh-client:                     ssh
+rofi.ssh-command:                    {terminal} -e "{ssh-client} {host}"
+rofi.opacity:                        100
+rofi.width:                          50
+rofi.lines:                          8
+rofi.columns:                        1
+rofi.font:                           Inconsolata 24
+rofi.fg:                             #5294E2
+rofi.bg:                             #5d729f
+rofi.fg-active:                      #34405a
+rofi.fg-urgent:                      #34405a
+rofi.hlfg-active:                    #5e73a0
+rofi.hlfg-urgent:                    #5e73a0
+rofi.bg-active:                      #34405a
+rofi.bg-urgent:                      #34405a
+rofi.hlbg-active:                    #5d729f
+rofi.hlbg-urgent:                    #5d729f
+rofi.bgalt:                          #5671a0
+rofi.hlfg:                           #34405a
+rofi.hlbg:                           #34405a
+rofi.bc:                             #789ee1
+! State:           'bg',     'fg',     'bgalt',  'hlbg',   'hlfg'
+rofi.color-normal: #353944,  #FFFFFF,  #353944,  #5294E2,  #FFFFFF
+rofi.color-normal: #353944,  #FFFFFF,  #353944,  #5294E2,  #FFFFFF
+rofi.color-normal: #353944,  #FFFFFF,  #353944,  #5294E2,  #FFFFFF

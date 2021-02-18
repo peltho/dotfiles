@@ -1,0 +1,298 @@
+;--------------------------------------------
+; colors                                    ;
+;--------------------------------------------
+
+[colors]
+	primary = ${xrdb:color1:#02FFD0}
+	textColor = ${xrdb:color0:#031C27}
+	bgColor = ${xrdb:color7:#fff}
+
+;--------------------------------------------
+; bars                                      ;
+;--------------------------------------------
+
+[bar/center]
+	dpi      = 192
+	width    = 75%
+	height   = 32
+; width = X% and offset-x = Y%, so that X + 2 * Y = 100.
+	offset-x = 12%
+	offset-y = 10
+
+; to center the bar be also sure to add gaps bottom [height of the bar] too
+	override-redirect = true
+	wm-restack = i3
+	
+	bottom = true
+
+	underline-size = 2
+
+	background = ${colors.bgColor}
+	foreground = ${colors.textColor}
+
+	spacing            = 0
+	padding-left       = 2
+	padding-right      = 2
+	module-margin      = 2
+
+	font-N = <fontconfig pattern>;<vertical offset>
+	font-0 = Siji:size=4;2
+	font-1 = Kochi Gothic:size=4;1
+	font-2 = FontAwesome:size=5;1
+	;font-2 = FontAwesome5Free:style=Solid:size=5;1
+	;font-3 = FontAwesome5Free:style=Regular:size=5;1
+	;font-4 = FontAwesome5Brands:style=Regular:size=5;1
+
+	modules-left = powermenu files apps network wired workspaces
+	modules-center = title 
+	modules-right = music alsa battery date
+
+	cursor-click = pointer
+	fixed-center = true
+
+; xrandr --listactivemonitors | awk '{print $4}' | tail -n1
+; xrandr | grep -E "\sconnected" | cut -d' ' -f1
+;	monitor = DP-2
+
+;--------------------------------------------
+; modules                                   ;
+;--------------------------------------------
+[module/music]
+	type = internal/mpd
+	host = 127.0.0.1
+	port = 6601
+	format-online = <label-song> <toggle> <icon-stop> <icon-prev> <bar-progress> <icon-next> <icon-random>
+	label-song = %artist% - %title%
+	label-maxlen = 20
+	label-offline = mopidy is offline
+	icon-play = 
+	icon-play-padding = 2
+	icon-pause = 
+	icon-pause-padding = 2
+	icon-stop = 
+;	icon-stop-padding = 2
+ 	icon-prev = 
+	icon-prev-padding = 2
+	icon-next = 
+	icon-next-padding = 2
+	icon-random = 
+
+	toggle-on-foreground = ${colors.primary}
+	toggle-off-foreground = ${colors.textColor}
+
+	label-song-padding = 2
+
+	bar-progress-width = 10
+	bar-progress-indicator = |
+	bar-progress-fill = ─
+	bar-progress-fill-foreground = ${colors.primary}
+	bar-progress-empty = ─
+
+[module/apps]
+    type = custom/menu
+    label-open = 
+    label-close = 
+
+    menu-0-0 = 
+    menu-0-0-exec = discord
+    menu-0-1 = 
+    menu-0-1-exec = mailspring
+    menu-0-2 = 
+    menu-0-2-exec = slack
+    menu-0-3 = 
+    menu-0-3-exec = phpstorm
+    menu-0-4 = 
+    menu-0-4-exec = zoom
+    menu-0-5 = 
+    menu-0-5-exec = notion-app
+    menu-0-6 = 
+    menu-0-6-exec = postman
+
+    label-separator = "    "
+
+[module/powermenu]
+	type = custom/menu
+	label-open =  
+	label-close =  
+
+	menu-0-0 =  Lock
+	menu-0-0-exec = i3lock-fancy 5 3
+	menu-0-1 =  Reboot
+	menu-0-1-exec = reboot
+	menu-0-2 =  Shutdown
+	menu-0-2-exec = shutdown -h now
+    menu-0-3 =  Hibernate
+    menu-0-3-exec = systemctl hibernate
+    menu-0-4 =  Suspend
+    menu-0-4-exec = systemctl suspend
+
+	label-separator = " "
+
+[module/network]
+        type = internal/network
+        interface = wlan0
+        interval = 5
+        label-connected =  %essid%
+        ;label-connected-foreground = ${colors.primary}
+        format-disconnected = <label-disconnected>
+        label-disconnected =   No network
+
+[module/wired]
+	type = internal/network
+	interface = enp56s0u2u4
+	interval = 5
+	label-connected =   Connected
+	;label-disconnected =   No network
+
+[module/files]
+	type = custom/text
+	content = 
+	click-left = thunar
+
+[module/discord]
+	type = custom/text
+	content = 
+	click-left = discord
+
+[module/mail]
+	type = custom/text
+	content = 
+	click-left = mailspring
+
+[module/slack]
+	type = custom/text
+	content = 
+	click-left = slack
+
+[module/vscode]
+	type = custom/text
+	content = 
+	click-left = code
+
+[module/code]
+	type = custom/menu
+	label-open = 
+	label-close =  
+	menu-0-0 = "VSCode |"
+	menu-0-0-exec = code
+	menu-0-1 = "GoLand |"
+	menu-0-1-exec = goland
+	menu-0-2 = PHPStorm
+	menu-0-2-exec = phpstorm
+	label-separator = " "
+
+[module/zoom]
+	type = custom/text
+	content = 
+	click-left = zoom
+
+[module/notion]
+	type = custom/text
+	content = 
+	click-left = notion-app
+
+[module/sql]
+	type = custom/text
+	content = 
+	click-left = sqlectron-gui
+
+[module/postman]
+	type = custom/text
+	content =   
+	click-left = postman
+
+[module/date]
+	type     = internal/date
+	interval = 1.0
+	time     = "%a %d-%m-%Y %H:%M"
+	label    = "%time%"
+	format   = <label>
+
+[module/title]
+	type = internal/xwindow
+	; Available tags:
+	;   <label> (default)
+	format = <label>
+	format-background = ${colors.bgColor}
+	format-foreground = ${colors.textColor}
+	format-padding = 2
+
+	; Available tokens:
+	;   %title%
+	; Default: %title%
+	label = %title%
+	label-maxlen = 50
+
+	; Used instead of label when there is no window title
+	; Available tokens:
+	;   None
+	label-empty = 
+	label-empty-foreground = #000
+	label-empty-background = #000
+
+[module/workspaces]
+	type            = internal/i3
+	format          = <label-state> <label-mode>
+	strip-wsnumbers = true
+	index-sort      = true
+	wrapping-scroll = false
+
+	label-focused-underline = ${colors.primary}
+
+	ws-icon-0 = 1;
+	ws-icon-1 = 2;
+	ws-icon-2 = 3;
+	ws-icon-3 = 4;
+	ws-icon-4 = 5;
+	ws-icon-5 = 6;
+	ws-icon-default =  
+
+	label-focused            = %icon%
+	label-focused-foreground = ${colors.textColor}
+	label-focused-padding    = 2
+
+	label-unfocused            = %icon%
+	label-unfocused-foreground = ${colors.textColor}
+	label-unfocused-padding    = 2
+
+	label-visible            = %icon%
+	label-visible-foreground = ${colors.textColor}
+	label-visible-padding    = 2
+
+	label-urgent             = %icon%
+	label-urgent-foreground  = ${colors.textColor}
+	label-urgent-padding     = 2
+
+	pin-workspaces = true
+
+[module/alsa]
+	type = internal/pulseaudio
+	;mapped = true
+	format-volume = %{F}<ramp-volume>%{F-} <label-volume>
+	ramp-volume-foreground = ${colors.textColor}
+	ramp-volume-0 = 
+	ramp-volume-1 = 
+	ramp-volume-2 = 
+
+[module/battery]
+    type = internal/battery
+    full-at = 99
+    battery = BAT0
+    adapter = AC
+    time-format = %H:%M
+    format-charging = <animation-charging> <label-charging>
+    format-discharging = <ramp-capacity> <label-discharging>
+    label-discharging = %percentage%%
+    label-full = Charged
+
+    animation-charging-0 = 
+    animation-charging-1 = 
+    animation-charging-2 = 
+    animation-charging-3 = 
+    animation-charging-4 = 
+
+    ramp-capacity-0 = 
+    ramp-capacity-1 = 
+    ramp-capacity-2 = 
+    ramp-capacity-3 = 
+    ramp-capacity-4 = 

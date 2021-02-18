@@ -1,0 +1,2551 @@
+{
+   "checksum": "132c5aaaaa27c5020feb53a5091e527b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13170367249000000",
+            "guid": "0d39f332-a420-46a1-9a9d-f6c95dda197c",
+            "id": "18",
+            "name": "Applications",
+            "type": "url",
+            "url": "chrome://apps/"
+         }, {
+            "date_added": "13037898368000000",
+            "guid": "fe8247a6-ecd1-4eb5-ad9d-841ef69d3307",
+            "id": "19",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/"
+         }, {
+            "date_added": "13098405503000000",
+            "guid": "4180b307-f39e-47cd-a33c-ca6ce5ab0ae7",
+            "id": "20",
+            "name": "FB",
+            "type": "url",
+            "url": "https://www.facebook.com/"
+         }, {
+            "date_added": "13038243023000000",
+            "guid": "8a3049b1-469a-4edb-b5cd-9c1ebe639638",
+            "id": "21",
+            "name": "BNP",
+            "type": "url",
+            "url": "https://mabanque.bnpparibas/"
+         }, {
+            "date_added": "13063140960000000",
+            "guid": "d25e1bc4-c951-4d2d-aa17-4953c9954bf6",
+            "id": "22",
+            "name": "Drive",
+            "type": "url",
+            "url": "http://www.google.com/intl/fr_fr/drive/"
+         }, {
+            "date_added": "13037906391000000",
+            "guid": "947d63c3-ce0a-4fcb-8f54-3f9a447c3a68",
+            "id": "23",
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "children": [ {
+               "date_added": "13257618904298026",
+               "guid": "7dec6084-4de2-4b05-a91e-7788c3ef72a1",
+               "id": "286",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "B06B9987061F2EDA1EC7D2EC5900F8BCB57A44411A22498F115E1ACC222FAF9D",
+                  "imageIdentifier": "08f60eb7",
+                  "imageType": "2"
+               },
+               "name": "solution",
+               "type": "url",
+               "url": "https://community.auth0.com/t/oauth-token-not-working/13939/4"
+            }, {
+               "date_added": "13257535250066742",
+               "guid": "a3abe41b-58b9-4e56-857b-6cdd42a584d5",
+               "id": "285",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "54C41ADCE482436A5989BBAD09572E0FE3431DEE3788C46DA600822C349C72AB",
+                  "imageIdentifier": "509b4d96",
+                  "imageType": "2"
+               },
+               "name": "HWIOAuthBundle/index.md at master · hwi/HWIOAuthBundle",
+               "type": "url",
+               "url": "https://github.com/hwi/HWIOAuthBundle/blob/master/Resources/doc/index.md"
+            }, {
+               "date_added": "13257526566915727",
+               "guid": "74a22980-08bb-4f8d-8a39-f651770d053d",
+               "id": "284",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "A3ACA2903C62F236F419C41A5DCFB007FD3CEAFF733217B7B8DCB7E1782C595C",
+                  "imageIdentifier": "2ad31acf",
+                  "imageType": "2"
+               },
+               "name": "Auth0.js v9 Reference",
+               "type": "url",
+               "url": "https://auth0.com/docs/libraries/auth0js#passwordless-login"
+            }, {
+               "date_added": "13257513156520580",
+               "guid": "17508a6a-9050-48a0-a1f8-2be896fa0a24",
+               "id": "283",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "BCC88A077D819741A63E51B6214813D0BF4CD90DFAAA4401181B0116238CEE3E",
+                  "imageIdentifier": "476f3d2e",
+                  "imageType": "2"
+               },
+               "name": "Hull Dashboard",
+               "type": "url",
+               "url": "https://dashboard.hullapp.io/6351a1f9/overview"
+            }, {
+               "date_added": "13257359011297213",
+               "guid": "7871eb33-ceb1-4cb8-95a6-eae6c733c8b1",
+               "id": "277",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "51144B1E878BB4CBF86E77387122637E7084AF9816901759AC7707E9F96AC81F",
+                  "imageIdentifier": "54698184",
+                  "imageType": "2"
+               },
+               "name": "Sentry",
+               "type": "url",
+               "url": "https://sentry.api.video/"
+            }, {
+               "date_added": "13256666226419710",
+               "guid": "61f2cdf0-e1fd-41fa-806c-823edbbfc325",
+               "id": "265",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "4891477F4EB3E72090CEAC0E3E427DC65B5D4762B14956D012A0BD67321F0729",
+                  "imageIdentifier": "4c74e740",
+                  "imageType": "2"
+               },
+               "name": "Kibana",
+               "type": "url",
+               "url": "http://elk.libcast.net/app/kibana#/home?_g=()"
+            }, {
+               "date_added": "13256905051303315",
+               "guid": "8b18f835-7371-46cc-8426-f396b90cae0b",
+               "id": "274",
+               "meta_info": {
+                  "imageIdentifier": "none",
+                  "imageType": "1"
+               },
+               "name": "Clickup",
+               "type": "url",
+               "url": "https://app.clickup.com/2189275/v/l/li/6896240"
+            }, {
+               "date_added": "13256749404690059",
+               "guid": "18ef00dc-0459-4cc7-ac98-29128d1d1a4a",
+               "id": "271",
+               "name": "ReadMe",
+               "type": "url",
+               "url": "https://dash.readme.com/"
+            }, {
+               "date_added": "13256749875797377",
+               "guid": "a8ede5a5-3bc1-41f6-bffb-7cff77205a15",
+               "id": "273",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "75FEF458126D05708BE3637A31C0E621DCD855F708CE93EF4B406371E82BE9CD",
+                  "imageIdentifier": "08835c15",
+                  "imageType": "2"
+               },
+               "name": "HubSpot",
+               "type": "url",
+               "url": "https://app.hubspot.com/reports-dashboard/5893803/view/2861974"
+            }, {
+               "date_added": "13256749410622030",
+               "guid": "7bdd0c98-96f6-4732-bf81-12fa4f2d061b",
+               "id": "272",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "68CC781237FC6DF0711733BDF50AC06C279AC92484DE1386F6A8648081A098EE",
+                  "imageIdentifier": "1146ef66",
+                  "imageType": "2"
+               },
+               "name": "SendGrid",
+               "type": "url",
+               "url": "https://app.sendgrid.com/"
+            }, {
+               "date_added": "13256748963007653",
+               "guid": "d5124eb4-cdd8-48c1-b722-ed81dbe7f3f5",
+               "id": "269",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "2FEEF3A6EF8CCC09D643E56A0FAC1A0FFE5ADCF939168E2EB52439E917E200EC",
+                  "imageIdentifier": "29979882",
+                  "imageType": "2"
+               },
+               "name": "api.video – Stripe",
+               "type": "url",
+               "url": "https://dashboard.stripe.com/dashboard"
+            }, {
+               "date_added": "13256749062375326",
+               "guid": "1fdd68c1-cbd9-4072-8b5d-495f20af66e4",
+               "id": "270",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "C6640D8429F40A7385D189AEA6D122B3A8FA816C9077AFD4C2F4852F56064AE1",
+                  "imageIdentifier": "4c194307",
+                  "imageType": "2"
+               },
+               "name": "Intercom",
+               "type": "url",
+               "url": "https://app.intercom.com/a/apps/h075b0f3/users/segments/active"
+            }, {
+               "date_added": "13257425743140401",
+               "guid": "8b7f7ddb-6cb6-421a-82d3-e759aeb1e0df",
+               "id": "278",
+               "meta_info": {
+                  "imageIdentifier": "none",
+                  "imageType": "1"
+               },
+               "name": "Intercom API",
+               "type": "url",
+               "url": "https://developers.intercom.com/intercom-api-reference/reference#contacts-model"
+            }, {
+               "date_added": "13256748805776559",
+               "guid": "5757c337-0d13-43d4-92dd-7d8833f62c9a",
+               "id": "268",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "CDCB18162A3EC8DD88E42C06AD87B3BD7D2301534A05CBD3235068B9EEA7149F",
+                  "imageIdentifier": "77f96f5c",
+                  "imageType": "2"
+               },
+               "name": "Auth0",
+               "type": "url",
+               "url": "https://manage.auth0.com/dashboard/eu/api-video/"
+            }, {
+               "date_added": "13257354104221360",
+               "guid": "18fb8e68-211f-4287-a5cb-2ddeeeb9ae71",
+               "id": "276",
+               "meta_info": {
+                  "imageIdentifier": "none",
+                  "imageType": "1"
+               },
+               "name": "Auth0 API",
+               "type": "url",
+               "url": "https://auth0.com/docs/api/authentication?_ga=2.6663538.1122373670.1612880154-330441539.1612275140#database-ad-ldap-passive-"
+            }, {
+               "date_added": "13257512581682530",
+               "guid": "358e2d99-6a18-4b85-927f-bba065de6035",
+               "id": "282",
+               "meta_info": {
+                  "imageIdentifier": "none",
+                  "imageType": "1"
+               },
+               "name": "Auth0 - Authorization Code Flow",
+               "type": "url",
+               "url": "https://auth0.com/docs/flows/authorization-code-flow"
+            }, {
+               "date_added": "13256733422521405",
+               "guid": "37b2411d-6c10-4483-87d6-053eb846db5b",
+               "id": "267",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "4D642F2AACC720D2785197F3E676128C26780508D335E1740E1810D43B77CFE1",
+                  "imageIdentifier": "3acc16f1",
+                  "imageType": "2"
+               },
+               "name": "my.",
+               "type": "url",
+               "url": "https://my.api.video/#"
+            }, {
+               "date_added": "13256670368162562",
+               "guid": "e5f2a5b5-eb7e-48b3-ab23-fe85d92b5c52",
+               "id": "266",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "0719EF3570983AECE3723B2B2624ED15F81410039EE02F9A26E96661C956DECB",
+                  "imageIdentifier": "0183ae2e",
+                  "imageType": "2"
+               },
+               "name": "productboard",
+               "type": "url",
+               "url": "https://api-video.productboard.com/roadmap/2259169-core-apis-ordered-roadmap-grouped-by-status"
+            }, {
+               "date_added": "13256666209099114",
+               "guid": "3ca1ac3f-7645-4aac-85cf-c9702e22aba6",
+               "id": "264",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "68C884685FA5008CC587EAFCA48442434C0FDC32B9A79DA9D0AFD0480668613D",
+                  "imageIdentifier": "670dc7a3",
+                  "imageType": "2"
+               },
+               "name": "Steward",
+               "type": "url",
+               "url": "https://steward.api.service/login"
+            }, {
+               "date_added": "13256656632738957",
+               "guid": "b2b645e8-4381-402e-86bc-bc666ddc278b",
+               "id": "263",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "8EA6C8E019DB5F524F4BF9142EFEA4287BAFFD0423D5EFCE9275FDF47C8ACCA0",
+                  "imageIdentifier": "5d49ec40",
+                  "imageType": "2"
+               },
+               "name": "api.video – Agenda - Semaine du 31 janvier 2021",
+               "type": "url",
+               "url": "https://calendar.google.com/calendar/u/2/r?pli=1"
+            }, {
+               "date_added": "13256649289453836",
+               "guid": "35ec2cd1-da8a-4bf4-a422-8bf76382dfce",
+               "id": "261",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "3F61FB18044E6EE8E2702B3C3E2077B96C7CD1162A49C2E9D79EBE1775762257",
+                  "imageIdentifier": "2c812519",
+                  "imageType": "2"
+               },
+               "name": "GitLab",
+               "type": "url",
+               "url": "https://code.libcast.net/"
+            }, {
+               "date_added": "13256298184438792",
+               "guid": "c44ad22c-26a5-468c-a948-d6228683b4fc",
+               "id": "260",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "8F482F4D47B7869B423DA7A6FD3F29801050647E6DC7AE2FE4E0B196466F5ABF",
+                  "imageIdentifier": "332203d7",
+                  "imageType": "2"
+               },
+               "name": "Team",
+               "type": "url",
+               "url": "https://www.notion.so/apivideo/Team-81a8448aeec24e9fb98cc62766c65a0a"
+            }, {
+               "date_added": "13256228090652385",
+               "guid": "5e53faf3-87e0-43f9-925f-5ba2d0a756c6",
+               "id": "259",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "8EA6C8E019DB5F524F4BF9142EFEA4287BAFFD0423D5EFCE9275FDF47C8ACCA0",
+                  "imageIdentifier": "5d49ec40",
+                  "imageType": "2"
+               },
+               "name": "GWorkspace",
+               "type": "url",
+               "url": "https://workspace.google.com/u/2/dashboard"
+            }, {
+               "children": [ {
+                  "date_added": "13257442734391434",
+                  "guid": "42bd68fe-5817-42dd-bbea-961b3051c213",
+                  "id": "280",
+                  "meta_info": {
+                     "imageDataType": "2",
+                     "imageID": "35811512B5D3B29CC68902DB65015A6CC2CC3AABBAE0D3EDBB3FC94C0C339303",
+                     "imageIdentifier": "6febc5d4",
+                     "imageType": "2"
+                  },
+                  "name": "The most popular Segment alternative for B2B SaaS",
+                  "type": "url",
+                  "url": "https://www.hull.io/features/segment-alternative/#:~:text=Hull%20ingests%20data%20from%20all%20your%20sources.&text=Segment%20can%20track%20data%20from%20its%20tracking%20libraries%20(like%20analytics.&text=Segment%20Sources%20are%20designed%20to,warehouse%20like%20Redshift%20in%20bulk."
+               }, {
+                  "date_added": "13257427226048443",
+                  "guid": "8b7074a8-4aa4-44aa-8358-cdcd5702aaeb",
+                  "id": "279",
+                  "meta_info": {
+                     "imageDataType": "2",
+                     "imageID": "69F5527B9C002DDC19BCF7EBF6D23093D11DB48DC1356202D5A67A5C0C24D98F",
+                     "imageIdentifier": "1b0be66e",
+                     "imageType": "2"
+                  },
+                  "name": "auth0.js/index.html at master · auth0/auth0.js",
+                  "type": "url",
+                  "url": "https://github.com/auth0/auth0.js/blob/master/example/index.html"
+               } ],
+               "date_added": "13257442755254797",
+               "date_modified": "13257442762610665",
+               "guid": "659b9172-598a-40b1-8565-a4f2c54c1b5f",
+               "id": "281",
+               "name": "Resources",
+               "type": "folder"
+            } ],
+            "date_added": "13256650545665263",
+            "date_modified": "13257618904612513",
+            "guid": "a1623376-f031-43fa-8b63-437a612cc169",
+            "id": "262",
+            "name": "api.video",
+            "type": "folder"
+         }, {
+            "date_added": "13255786291270411",
+            "guid": "426ad362-69cb-411a-a6b1-20f5f8b0b15d",
+            "id": "257",
+            "meta_info": {
+               "imageDataType": "2",
+               "imageID": "3F61FB18044E6EE8E2702B3C3E2077B96C7CD1162A49C2E9D79EBE1775762257",
+               "imageIdentifier": "2e0407f8",
+               "imageType": "2"
+            },
+            "name": "GitLab",
+            "type": "url",
+            "url": "https://gitlab.com/"
+         }, {
+            "date_added": "13251929430000000",
+            "guid": "ca76bb11-234d-4d21-ac56-adf0c967187e",
+            "id": "24",
+            "name": "Twitter",
+            "type": "url",
+            "url": "https://twitter.com/home"
+         }, {
+            "date_added": "13068640932000000",
+            "guid": "2410e6d8-8204-48ac-ac98-59987d522c7e",
+            "id": "25",
+            "name": "feedly",
+            "type": "url",
+            "url": "https://feedly.com/i/my"
+         }, {
+            "date_added": "13184448256000000",
+            "guid": "194f5e57-0a90-4213-90bc-14504e493a9c",
+            "id": "26",
+            "name": "Netflix",
+            "type": "url",
+            "url": "https://www.netflix.com/browse"
+         }, {
+            "date_added": "13208386473000000",
+            "guid": "f3f3da59-2c26-4ef7-86fa-4d824b41b09a",
+            "id": "27",
+            "name": "Scala Doc",
+            "type": "url",
+            "url": "https://docs.scala-lang.org/tour/tour-of-scala.html"
+         }, {
+            "date_added": "13221598324000000",
+            "guid": "b7090b08-993b-4251-af09-b91bc65d6fb1",
+            "id": "29",
+            "name": "AWS Console",
+            "type": "url",
+            "url": "https://aws.amazon.com/fr/console/"
+         }, {
+            "date_added": "13234534066000000",
+            "guid": "16dbb796-e13d-4dcd-a862-7e3df163d91e",
+            "id": "30",
+            "name": "GDrive",
+            "type": "url",
+            "url": "https://drive.google.com/drive/my-drive"
+         }, {
+            "date_added": "13255715654340422",
+            "guid": "9a3574db-d3f8-4924-a3db-38cad104bf41",
+            "id": "256",
+            "name": "ygg",
+            "type": "url",
+            "url": "https://www2.yggtorrent.si/"
+         }, {
+            "children": [ {
+               "date_added": "13242674495000000",
+               "guid": "79b59370-1f8a-4a60-9b92-24d53748a012",
+               "id": "197",
+               "name": "The Case For A Go Worker Pool — Brandur Leach",
+               "type": "url",
+               "url": "https://brandur.org/go-worker-pool"
+            }, {
+               "date_added": "13239469243000000",
+               "guid": "12f48098-e019-471e-9cb2-d3c812d92625",
+               "id": "198",
+               "name": "A Tour of Go",
+               "type": "url",
+               "url": "https://tour.golang.org/welcome/1"
+            }, {
+               "date_added": "13239883084000000",
+               "guid": "72046e6d-859e-44f8-84d2-adbd8d8320aa",
+               "id": "199",
+               "name": "Effective Go - The Go Programming Language",
+               "type": "url",
+               "url": "https://golang.org/doc/effective_go.html"
+            }, {
+               "date_added": "13239883260000000",
+               "guid": "2dbede6f-d903-4cf8-b899-aafa7f58d1ff",
+               "id": "200",
+               "name": "Go by Example",
+               "type": "url",
+               "url": "https://gobyexample.com/"
+            }, {
+               "date_added": "13243767995000000",
+               "guid": "a4122485-22d2-42ac-87b5-8b80ac36ae1d",
+               "id": "201",
+               "name": "Getting Started with Kafka in Golang | by Yusuf Syaifudin | Medium",
+               "type": "url",
+               "url": "https://medium.com/@yusufs/getting-started-with-kafka-in-golang-14ccab5fa26"
+            }, {
+               "date_added": "13244469813000000",
+               "guid": "8a5ce330-d0af-4c27-bc1d-664e2a1c89c4",
+               "id": "202",
+               "name": "Errors in Go: From denial to acceptance — Martian Chronicles, Evil Martians’ team blog",
+               "type": "url",
+               "url": "https://evilmartians.com/chronicles/errors-in-go-from-denial-to-acceptance"
+            }, {
+               "date_added": "13246136817000000",
+               "guid": "c2cd8933-26f4-4b84-a8c4-52f7d8995925",
+               "id": "203",
+               "name": "Building Microservices with Event Sourcing/CQRS in Go using gRPC, NATS Streaming and CockroachDB | by Shiju Varghese | Medium",
+               "type": "url",
+               "url": "https://medium.com/@shijuvar/building-microservices-with-event-sourcing-cqrs-in-go-using-grpc-nats-streaming-and-cockroachdb-983f650452aa"
+            }, {
+               "date_added": "13246895116000000",
+               "guid": "89817f9e-8258-4b21-956d-7dc7a91a59fa",
+               "id": "204",
+               "name": "Envoy and gRPC-Web: a fresh new alternative to REST | by Luc Perkins | Envoy Proxy",
+               "type": "url",
+               "url": "https://blog.envoyproxy.io/envoy-and-grpc-web-a-fresh-new-alternative-to-rest-6504ce7eb880"
+            }, {
+               "date_added": "13246897656000000",
+               "guid": "ca2060a2-db12-449c-83a8-671ceb14db3b",
+               "id": "205",
+               "name": "grpc-web/tutorial.md at master · grpc/grpc-web · GitHub",
+               "type": "url",
+               "url": "https://github.com/grpc/grpc-web/blob/master/net/grpc/gateway/examples/echo/tutorial.md"
+            }, {
+               "date_added": "13246907205000000",
+               "guid": "6251de5c-9629-4468-b63b-b33e8c96df6f",
+               "id": "206",
+               "name": "A Simple State Machine Framework in Go",
+               "type": "url",
+               "url": "https://venilnoronha.io/a-simple-state-machine-framework-in-go"
+            }, {
+               "date_added": "13246994131000000",
+               "guid": "ac5cfe62-4dbd-42c3-9586-2a7b24ed50bf",
+               "id": "207",
+               "name": "Saga Pattern | How to implement business transactions using Microservices – Part II | The Couchbase Blog",
+               "type": "url",
+               "url": "https://blog.couchbase.com/saga-pattern-implement-business-transactions-using-microservices-part-2/"
+            }, {
+               "date_added": "13247611670000000",
+               "guid": "78ac2f06-97be-401f-9fd9-ae4e889449a4",
+               "id": "208",
+               "name": "A Comprehensive Guide to Slices in Golang | by Radhakishan Surwase | Sep, 2020 | codeburst",
+               "type": "url",
+               "url": "https://codeburst.io/a-comprehensive-guide-to-slices-in-golang-bacebfe46669"
+            }, {
+               "date_added": "13247853800000000",
+               "guid": "325c3909-cced-4099-9655-bf3ff24fa81c",
+               "id": "209",
+               "name": "My Six Years of Experience as a Go Programming Language Mentor in India | by Shiju Varghese | Oct, 2020 | Medium",
+               "type": "url",
+               "url": "https://shijuvar.medium.com/my-six-years-of-experience-of-as-a-go-programming-language-mentor-in-india-67854dcf1b95"
+            }, {
+               "date_added": "13248808577000000",
+               "guid": "6d33d9f4-fd26-4de8-ac93-1a8223736ec1",
+               "id": "210",
+               "name": "(28) Golang UK Conference 2016 - Marcus Olsson - Building an enterprise service in Go - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=twcDf_Y2gXY"
+            }, {
+               "date_added": "13248824247000000",
+               "guid": "1a2cba00-1425-43d5-99b2-c9e4fe3a0dd2",
+               "id": "211",
+               "name": "GitHub - GoogleContainerTools/distroless: 🥑 Language focused docker images, minus the operating system.",
+               "type": "url",
+               "url": "https://github.com/GoogleContainerTools/distroless"
+            }, {
+               "date_added": "13249076170000000",
+               "guid": "3b1721a4-2a24-4d80-8b09-6dd83cfc40e4",
+               "id": "212",
+               "name": "Combining DDD, CQRS, and Clean Architecture by refactoring a Go project",
+               "type": "url",
+               "url": "https://threedots.tech/post/ddd-cqrs-clean-architecture-combined/"
+            }, {
+               "date_added": "13249151088000000",
+               "guid": "5c7d10ff-6997-40a2-a8a5-4e9e4d85a74f",
+               "id": "213",
+               "name": "Building GraphQL servers in golang — gqlgen",
+               "type": "url",
+               "url": "https://gqlgen.com/getting-started/"
+            }, {
+               "date_added": "13249154579000000",
+               "guid": "ab9fbea8-195b-4dac-ae66-6c258a3c50e6",
+               "id": "214",
+               "name": "nicolaiskogheim/go-kit-graphql-todo: A Todo go-kit microservice experiment, with graphql",
+               "type": "url",
+               "url": "https://github.com/nicolaiskogheim/go-kit-graphql-todo"
+            }, {
+               "date_added": "13249169651000000",
+               "guid": "cd533846-47f3-4122-8bd8-c8daa53c5a68",
+               "id": "215",
+               "name": "Embedding Caddy Web Server in Go. Embedding Caddy Server into Go code… | by Naren | Backend Army | Medium",
+               "type": "url",
+               "url": "https://medium.com/backendarmy/embedding-a-web-server-in-go-e116cbbdc936"
+            }, {
+               "date_added": "13249305864000000",
+               "guid": "73d423d0-e550-4ed7-9073-8c4e59444ac8",
+               "id": "216",
+               "name": "Go Docker dev environment with Go Modules and live code reloading",
+               "type": "url",
+               "url": "https://threedots.tech/post/go-docker-dev-environment-with-go-modules-and-live-code-reloading/"
+            }, {
+               "date_added": "13249589724000000",
+               "guid": "69b364f0-43aa-4e32-9e40-45859b61a417",
+               "id": "217",
+               "name": "spotify/auth.go at 158b1863f5b544aaea5946273b97980f5ee5493f · zmb3/spotify",
+               "type": "url",
+               "url": "https://github.com/zmb3/spotify/blob/158b1863f5b544aaea5946273b97980f5ee5493f/auth.go"
+            }, {
+               "date_added": "13251886638000000",
+               "guid": "c74cdcaf-0bd0-49ac-a217-dc2581435b89",
+               "id": "218",
+               "name": "Making your Go app configurable. Using a good settings strategy can make… | by Ralph Ligtenberg | Travix Engineering",
+               "type": "url",
+               "url": "https://travix.io/making-your-go-app-configurable-bb5e5f4a9df9"
+            }, {
+               "date_added": "13251888522000000",
+               "guid": "c1db6552-622f-47c0-84ee-ee3873d41dc6",
+               "id": "219",
+               "name": "Complete Guide to Create Docker Container for Your Golang Application | by Afdol Riski | Level Up Coding",
+               "type": "url",
+               "url": "https://levelup.gitconnected.com/complete-guide-to-create-docker-container-for-your-golang-application-80f3fb59a15e"
+            }, {
+               "date_added": "13252597195000000",
+               "guid": "5ed2217d-49b9-49dc-b2da-0e68bb5020cf",
+               "id": "220",
+               "name": "Profiling Go Programs - The Go Blog",
+               "type": "url",
+               "url": "https://blog.golang.org/pprof"
+            }, {
+               "date_added": "13252943625000000",
+               "guid": "8b98f31f-0245-45a4-a2b4-1fae34b5d6fd",
+               "id": "221",
+               "name": "Go Modules. Preface | by Aaron Zhuo | Dec, 2020 | Medium",
+               "type": "url",
+               "url": "https://aaronzhuo.medium.com/go-modules-d51fa19cf715"
+            }, {
+               "date_added": "13254485455000000",
+               "guid": "48142959-4874-4a74-9610-e4b736bb7394",
+               "id": "222",
+               "name": "Ultimate Setup for Your Next Golang Project | by Martin Heinz | Towards Data Science",
+               "type": "url",
+               "url": "https://towardsdatascience.com/ultimate-setup-for-your-next-golang-project-1cc989ad2a96"
+            } ],
+            "date_added": "13254678729778640",
+            "date_modified": "0",
+            "guid": "6837c8ff-4c29-471a-9e33-3f309f6d94cc",
+            "id": "196",
+            "name": "go",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13229024322000000",
+               "guid": "cc44fa4d-812e-44b4-9990-9e51dbce2c5b",
+               "id": "32",
+               "name": "Simple Raspberry Pi WiFi Extender - Pi My Life Up",
+               "type": "url",
+               "url": "https://pimylifeup.com/raspberry-pi-wifi-extender/"
+            }, {
+               "date_added": "13229437539000000",
+               "guid": "a78a5182-5a07-4946-a05a-ecf400992d5d",
+               "id": "33",
+               "name": "Pass: The Standard Unix Password Manager",
+               "type": "url",
+               "url": "https://www.passwordstore.org/"
+            }, {
+               "date_added": "13231365112000000",
+               "guid": "99a921f1-603a-4db2-abe4-42751bd327b8",
+               "id": "34",
+               "name": "Arch Linux ARM v7 - Installation",
+               "type": "url",
+               "url": "https://howto.wared.fr/raspberry-pi-installation-arch-linux-arm-v6-v7-v8/"
+            }, {
+               "date_added": "13231504625000000",
+               "guid": "2094d3a2-3928-46bc-99ba-f230778ff26e",
+               "id": "35",
+               "name": "Pimoroni and pHat DAC - bit.ovh - a piece of my mind",
+               "type": "url",
+               "url": "https://bit.ovh/2016/01/29/pimoroni/"
+            }, {
+               "date_added": "13233079275000000",
+               "guid": "124b6a88-4c69-4135-9cd6-945ebecbb5a2",
+               "id": "36",
+               "name": "Arch Linux ARM",
+               "type": "url",
+               "url": "https://archlinuxarm.org/"
+            }, {
+               "date_added": "13242937504000000",
+               "guid": "f9f87138-adc1-49a7-81d0-6626a9f37d49",
+               "id": "37",
+               "name": "Will it cluster? k3s on your Raspberry Pi",
+               "type": "url",
+               "url": "https://blog.alexellis.io/test-drive-k3s-on-raspberry-pi/"
+            }, {
+               "date_added": "13252172885000000",
+               "guid": "1fc3265f-320d-4c39-926b-7d57eab864d6",
+               "id": "38",
+               "name": "Arch Linux ARM v6, v7 et v8 - Installation sur Raspberry Pi 1, 2, 3 et 4",
+               "type": "url",
+               "url": "https://howto.wared.fr/raspberry-pi-installation-arch-linux-arm-v6-v7-v8/#toggle-id-4"
+            }, {
+               "date_added": "13254510362000000",
+               "guid": "ba57bd9e-9caa-4c49-b32e-4aa37b501d53",
+               "id": "39",
+               "name": "iOiESvmZ2hxGzXy9yQspSfnHDQV3ThpBH7g_8thyoQ4.png (1366×1536)",
+               "type": "url",
+               "url": "https://external-preview.redd.it/iOiESvmZ2hxGzXy9yQspSfnHDQV3ThpBH7g_8thyoQ4.png?s=014edd7d78263411f8563aa0ad2cff202e254be6"
+            } ],
+            "date_added": "13254678729671744",
+            "date_modified": "0",
+            "guid": "bad24350-69c8-4183-9558-909547ae345e",
+            "id": "31",
+            "name": "rpi / arch",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13231516451000000",
+                  "guid": "4c86b363-0c3b-4873-a875-0db4567b8cfa",
+                  "id": "42",
+                  "name": "Building a private LoRa network - Tutorials | Mbed OS 5 Documentation",
+                  "type": "url",
+                  "url": "https://os.mbed.com/docs/mbed-os/v5.15/tutorials/LoRa-tutorial.html"
+               }, {
+                  "date_added": "13231516606000000",
+                  "guid": "85d3d8b1-dd72-4633-af87-feb3e4c17144",
+                  "id": "43",
+                  "name": "Compact server for private LoRaWAN networks",
+                  "type": "url",
+                  "url": "https://github.com/gotthardp/lorawan-server"
+               }, {
+                  "date_added": "13231526517000000",
+                  "guid": "c754e6d1-8851-4898-81b6-73419216590c",
+                  "id": "44",
+                  "name": "A DIY Low-cost LoRa gateway",
+                  "type": "url",
+                  "url": "http://cpham.perso.univ-pau.fr/LORA/RPIgateway.html"
+               } ],
+               "date_added": "13254678729677364",
+               "date_modified": "0",
+               "guid": "862783dc-6152-413d-8201-c0a50f0896cc",
+               "id": "41",
+               "name": "LoRaWAN",
+               "type": "folder"
+            }, {
+               "children": [  ],
+               "date_added": "13254678729679729",
+               "date_modified": "13254678729679729",
+               "guid": "56193e97-ff50-4524-a689-ea4dae1e01f8",
+               "id": "45",
+               "name": "TCP/IP",
+               "type": "folder"
+            } ],
+            "date_added": "13254678729676851",
+            "date_modified": "0",
+            "guid": "648f8be4-f440-45ee-8733-e6c98d7930d7",
+            "id": "40",
+            "name": "Network",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13231793331000000",
+               "guid": "1084e1ef-62f5-4b21-9ad7-51caa71be5cb",
+               "id": "47",
+               "name": "Stash for restarting Akka Typed Actors - Marek Scholle - Medium",
+               "type": "url",
+               "url": "https://medium.com/@marekscholle/stash-for-restarting-akka-typed-actors-ce5f5a7e9fa2"
+            }, {
+               "date_added": "13231969920000000",
+               "guid": "e7faf081-85c2-43f4-afea-d9608659320f",
+               "id": "48",
+               "name": "4. Good Actor Design - Applied Akka Patterns [Book]",
+               "type": "url",
+               "url": "https://www.oreilly.com/library/view/applied-akka-patterns/9781491934876/ch04.html"
+            }, {
+               "date_added": "13231790831000000",
+               "guid": "1212caa2-0d49-4972-97af-88848705ab4d",
+               "id": "49",
+               "name": "sangria-akka-http-example/Server.scala at master · sangria-graphql/sangria-akka-http-example",
+               "type": "url",
+               "url": "https://github.com/sangria-graphql/sangria-akka-http-example/blob/master/src/main/scala/Server.scala"
+            }, {
+               "date_added": "13231782909000000",
+               "guid": "1e5c6e4f-b393-4feb-958a-10e06b6ddce3",
+               "id": "50",
+               "name": "akka-http-realworld-example/Main.scala at master · 1984weed/akka-http-realworld-example",
+               "type": "url",
+               "url": "https://github.com/1984weed/akka-http-realworld-example/blob/master/src/main/scala/realworld/com/Main.scala"
+            }, {
+               "children": [ {
+                  "date_added": "13232231117000000",
+                  "guid": "212d7a30-0f54-4381-ad55-056925f010a3",
+                  "id": "52",
+                  "name": "Angular 8 with Play Framework 2.7.x - Noteworthy - The Journal Blog",
+                  "type": "url",
+                  "url": "https://blog.usejournal.com/https-medium-com-yohan-gz-angular-with-play-framework-a6c3f8b339f3"
+               }, {
+                  "date_added": "13232229757000000",
+                  "guid": "c940954a-c5ac-4ac0-aad4-bd60a3c3df2f",
+                  "id": "53",
+                  "name": "Getting Play Framework running on Kubernetes with Google Cloud Platform",
+                  "type": "url",
+                  "url": "https://medium.com/beyond/getting-play-framework-running-on-kubernetes-with-google-cloud-platform-47ea7dd74ac0"
+               }, {
+                  "date_added": "13232230270000000",
+                  "guid": "76eca0fe-4f88-489b-9be5-569036e6fb11",
+                  "id": "54",
+                  "name": "rowanl/playframework-kubernetes: A simple example application to help you load a play application in to Google Kubernetes Engine",
+                  "type": "url",
+                  "url": "https://github.com/rowanl/playframework-kubernetes"
+               }, {
+                  "date_added": "13232491745000000",
+                  "guid": "fdf0d231-84fa-406c-9191-f1137d11d977",
+                  "id": "55",
+                  "name": "Squeezing Webpack into Backend Frameworks | Infinum",
+                  "type": "url",
+                  "url": "https://infinum.com/the-capsized-eight/squeezing-webpack-into-backend-frameworks"
+               }, {
+                  "date_added": "13232562652000000",
+                  "guid": "a7c8464a-c6a0-4294-b4fd-14c7eded2b97",
+                  "id": "56",
+                  "name": "Scala Home - 2.8.x",
+                  "type": "url",
+                  "url": "https://www.playframework.com/documentation/2.8.x/ScalaHome"
+               }, {
+                  "date_added": "13232624634000000",
+                  "guid": "04dc4bac-0c37-4cef-bd9c-4eb75c590661",
+                  "id": "57",
+                  "name": "Getting Started With Play Framework - DZone - Refcardz",
+                  "type": "url",
+                  "url": "https://dzone.com/refcardz/getting-started-play-framework?chapter=1"
+               } ],
+               "date_added": "13254678729683352",
+               "date_modified": "0",
+               "guid": "56a5c980-3fec-4d62-9a3c-67e56534c0bc",
+               "id": "51",
+               "name": "Play",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13230554058000000",
+                  "guid": "9c194ee3-8472-438a-afb1-6a9243e90e35",
+                  "id": "59",
+                  "name": "Kamon",
+                  "type": "url",
+                  "url": "https://fullgc.github.io/how-to-tune-akka-to-get-the-most-from-your-actor-based-system-part-2/"
+               }, {
+                  "date_added": "13230506245000000",
+                  "guid": "75b78319-de9b-4da4-9d3c-13e1002bc969",
+                  "id": "60",
+                  "name": "eigengo/activator-akka-aspectj: Activator showing integration of AspectJ to monitor the ActorSystem",
+                  "type": "url",
+                  "url": "https://github.com/eigengo/activator-akka-aspectj"
+               }, {
+                  "date_added": "13230505225000000",
+                  "guid": "f96769ae-34fa-41da-957c-39a37bcb701d",
+                  "id": "61",
+                  "name": "Monitoring Akka - DZone Java",
+                  "type": "url",
+                  "url": "https://dzone.com/articles/monitoring-akka"
+               }, {
+                  "date_added": "13230497773000000",
+                  "guid": "a6094ef3-2a5c-46d0-8cdc-bc4fb3e8e004",
+                  "id": "62",
+                  "name": "carrot-garden/akka_docker-grafana-graphite: Docker image with StatsD, Graphite, Grafana and a Kamon Dashboard",
+                  "type": "url",
+                  "url": "https://github.com/carrot-garden/akka_docker-grafana-graphite"
+               }, {
+                  "date_added": "13230824904000000",
+                  "guid": "90f61400-ddcd-4136-b9c3-92aee3a83c63",
+                  "id": "63",
+                  "name": "Stackable Traits pattern - Part 2 | Dani Shemesh",
+                  "type": "url",
+                  "url": "https://fullgc.github.io/stackable-traits-pattern---part-2/"
+               } ],
+               "date_added": "13254678729687292",
+               "date_modified": "0",
+               "guid": "cd5fc24e-529d-4195-989b-b308a785d083",
+               "id": "58",
+               "name": "Akka monitoring",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13230841136000000",
+                  "guid": "36954e2c-cecb-437d-87fc-49e36a30afe1",
+                  "id": "65",
+                  "name": "Maximizing Throughput for Akka Streams",
+                  "type": "url",
+                  "url": "https://blog.colinbreck.com/maximizing-throughput-for-akka-streams/"
+               }, {
+                  "date_added": "13231867365000000",
+                  "guid": "bf78bcea-ac3d-4d3c-bfa7-539de75b43ef",
+                  "id": "66",
+                  "name": "Uber simple uber app written using loads of stuffz - CodeProject",
+                  "type": "url",
+                  "url": "https://www.codeproject.com/Articles/1228599/Uber-simple-uber-app-written-using-loads-of-stuffz#Demo-Video"
+               }, {
+                  "date_added": "13231956564000000",
+                  "guid": "04ab034d-b694-4a46-b94b-ebb32f5b1662",
+                  "id": "67",
+                  "name": "Explaining Streams to Rich Harris",
+                  "type": "url",
+                  "url": "https://johnlindquist.com/explaining-streams-to-rich-harris"
+               } ],
+               "date_added": "13254678729690744",
+               "date_modified": "0",
+               "guid": "6ae6eb67-311e-47de-b520-c7279be11485",
+               "id": "64",
+               "name": "Akka streams",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13229982155000000",
+                  "guid": "4e41237c-811e-47a1-9fbc-9fc767669be0",
+                  "id": "69",
+                  "name": "Use case 1 - eBay",
+                  "type": "url",
+                  "url": "https://tech.ebayinc.com/engineering/rest-commander-scalable-web-server-management-and-monitoring/"
+               }, {
+                  "date_added": "13230408608000000",
+                  "guid": "d365a878-de3c-483e-8e2b-09599ad71e93",
+                  "id": "70",
+                  "name": "WTM - Actors",
+                  "type": "url",
+                  "url": "https://github.com/vpg/dpa-watermelon-framework/blob/master/watermelon-coordination-driver/src/main/scala/com/voyageprive/watermelon/driver/akka/component/ResourceWorkerLazyBuilder.scala"
+               }, {
+                  "date_added": "13230473639000000",
+                  "guid": "d53dfa1c-5159-4db3-ab7c-a71af209dfe3",
+                  "id": "71",
+                  "name": "Create a soccer league dashboard app with Akka – IBM Developer",
+                  "type": "url",
+                  "url": "https://developer.ibm.com/depmodels/cloud/patterns/create-a-soccer-league-dashboard-app/"
+               }, {
+                  "date_added": "13232036667000000",
+                  "guid": "c77db72e-0ed8-4103-9776-02aa956251b7",
+                  "id": "72",
+                  "name": "vpg/dpa-watermelon-webview at development",
+                  "type": "url",
+                  "url": "https://github.com/vpg/dpa-watermelon-webview/tree/development"
+               }, {
+                  "date_added": "13233524461000000",
+                  "guid": "24e64ac2-49c0-4588-872e-652804df4c76",
+                  "id": "73",
+                  "name": "How To Distribute Application State with Akka Cluster - Part 1: Getting Started | @lightbend",
+                  "type": "url",
+                  "url": "https://www.lightbend.com/blog/how-to-distribute-application-state-with-akka-cluster-part-1-getting-started?mkt_tok=eyJpIjoiWVRoak9HWXpaakV5TW1FNSIsInQiOiJJYlNsUW5XYWFuM1ZjUFM3Z0pcL3I0UDl5ZlJRcW1Cckh5clZjN2xJVVFac2pJY05xYkhOOE9Dd3RUU0RuakFRMTN3SHJLWGNLM0NJNW1mRWhUaVBZaUpyZDJPZFVhY2hGVG9PaVRkYVwvbm5lUW8zXC9WS2phYXFQa1JsTHpHQlRiOCJ9"
+               } ],
+               "date_added": "13254678729693307",
+               "date_modified": "0",
+               "guid": "70f89093-2623-4906-a575-a1b9014d600f",
+               "id": "68",
+               "name": "Akka use cases",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13232040112000000",
+                  "guid": "e85b0547-f883-4341-857f-290d3ad77e2c",
+                  "id": "75",
+                  "name": "ScalaUserResourceObjectTypes.scala",
+                  "type": "url",
+                  "url": "https://github.com/vpg/dpa-watermelon-framework/blob/26a556711c43e3116690ad4894f09b44993ca5db/watermelon-coordination-api/src/main/scala/com/voyageprive/watermelon/api/resource/services/ScalaUserResourceObjectTypes.scala#L643"
+               }, {
+                  "date_added": "13232040137000000",
+                  "guid": "fd3bf6a9-eb97-4eca-a357-e651c9c66ef4",
+                  "id": "76",
+                  "name": "dpa-watermelon-resources/Resource.build.sbt",
+                  "type": "url",
+                  "url": "https://github.com/vpg/dpa-watermelon-resources/blob/master/Resource.build.sbt#L66"
+               } ],
+               "date_added": "13254678729697089",
+               "date_modified": "0",
+               "guid": "cf792047-34e0-4f98-852d-a5293469124b",
+               "id": "74",
+               "name": "dpa-wtm-notifiers",
+               "type": "folder"
+            }, {
+               "date_added": "13231798837000000",
+               "guid": "99582134-6afa-410f-a496-4143e697a1c8",
+               "id": "77",
+               "name": "Classic -> Typed",
+               "type": "url",
+               "url": "https://doc.akka.io/docs/akka/current/typed/from-classic.html"
+            } ],
+            "date_added": "13254678729680442",
+            "date_modified": "0",
+            "guid": "cde7b2d4-48df-4445-807f-0306e169d352",
+            "id": "46",
+            "name": "Akka",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13231535173000000",
+               "guid": "63014145-fc8c-4d7a-a897-e5216ab019f7",
+               "id": "79",
+               "name": "Svelte",
+               "type": "url",
+               "url": "https://svelte.dev/blog/the-easiest-way-to-get-started"
+            }, {
+               "date_added": "13231596238000000",
+               "guid": "1078145c-2a8e-4717-b6c3-fa923ef8d7fe",
+               "id": "80",
+               "name": "Sapper • The next small thing in web development",
+               "type": "url",
+               "url": "https://sapper.svelte.dev/"
+            }, {
+               "date_added": "13231605682000000",
+               "guid": "2032fbe5-b036-4f5e-a994-acb210e30547",
+               "id": "81",
+               "name": "Svelte Material UI",
+               "type": "url",
+               "url": "https://sveltematerialui.com/"
+            }, {
+               "date_added": "13231674791000000",
+               "guid": "eb71e4ea-5e62-4955-8550-91a2f5ad4804",
+               "id": "82",
+               "name": "Bulma: CSS framework",
+               "type": "url",
+               "url": "https://bulma.io/"
+            }, {
+               "date_added": "13231783617000000",
+               "guid": "3499d12d-4a03-42cc-a2f9-7935900dc8ea",
+               "id": "83",
+               "name": "Build and Deploy Realtime Svelte 3 Apps Using GraphQL | Hasura",
+               "type": "url",
+               "url": "https://hasura.io/blog/build-and-deploy-svelte-js-3-apps-using-graphql/"
+            }, {
+               "date_added": "13231869810000000",
+               "guid": "4b88e5aa-b0ef-44da-96de-0c37e82ad629",
+               "id": "84",
+               "name": "Svelma",
+               "type": "url",
+               "url": "https://c0bra.github.io/svelma/install/?ref=madewithsvelte.com"
+            }, {
+               "date_added": "13231871202000000",
+               "guid": "aa0d6937-386a-4da8-a2de-c8b2d1060212",
+               "id": "85",
+               "name": "SvelteBulma/rollup.config.js at master · jumanja/SvelteBulma",
+               "type": "url",
+               "url": "https://github.com/jumanja/SvelteBulma/blob/master/rollup.config.js"
+            }, {
+               "date_added": "13231954450000000",
+               "guid": "50cd3c2b-d2d5-4df5-985d-fb3c1ddcfcc6",
+               "id": "86",
+               "name": "React, le local state management d’Apollo, une alternative à Redux / ContextApi? | Blog Eleven Labs",
+               "type": "url",
+               "url": "https://blog.eleven-labs.com/fr/react-apollo-le-local-state-management-une-alternative-a-redux-contextapi/"
+            }, {
+               "date_added": "13232808249000000",
+               "guid": "46a3cc02-e132-433f-809b-f41964c201f9",
+               "id": "87",
+               "name": "The atomic web toolkit for pragmatists | a17t",
+               "type": "url",
+               "url": "https://a17t.miles.land/"
+            }, {
+               "date_added": "13244754626000000",
+               "guid": "721590b9-94c3-487d-9754-259079555e6b",
+               "id": "88",
+               "name": "Introduction to Immer · Immer",
+               "type": "url",
+               "url": "https://immerjs.github.io/immer/docs/introduction"
+            }, {
+               "date_added": "13248972993000000",
+               "guid": "72420204-fbe6-4f9e-a7e4-a4bbfdbe9ed5",
+               "id": "89",
+               "name": "React Icons",
+               "type": "url",
+               "url": "https://react-icons.github.io/search"
+            } ],
+            "date_added": "13254678729699629",
+            "date_modified": "0",
+            "guid": "cbe68dfe-1e7a-455c-aaa2-3821aa8fb428",
+            "id": "78",
+            "name": "Front (web)",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13232559447000000",
+               "guid": "e12f2a77-7765-4b47-a398-111890534be1",
+               "id": "91",
+               "name": "Lightstreams",
+               "type": "url",
+               "url": "https://docs.lightstreams.network/lightstreams-docs/privacy-and-confidentiality"
+            }, {
+               "date_added": "13232808263000000",
+               "guid": "a0dfdbe3-3cd3-4cea-b9cc-20132d526ffb",
+               "id": "92",
+               "name": "milesmcc/shynet: Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.",
+               "type": "url",
+               "url": "https://github.com/milesmcc/shynet"
+            }, {
+               "date_added": "13234914356000000",
+               "guid": "a08b3276-125f-40ee-bbd5-350059bcd74f",
+               "id": "93",
+               "name": "Headless CMS with GraphQL to manage omni-channel content and deliver better digital experiences. | GraphCMS",
+               "type": "url",
+               "url": "https://graphcms.com/"
+            }, {
+               "date_added": "13250522749000000",
+               "guid": "686307d7-0b16-4858-9266-65ba7b58f951",
+               "id": "94",
+               "name": "@VinceOPS | GitLab CI : Intégré comme jamais",
+               "type": "url",
+               "url": "https://vinceops.me/gitlab-ci-cd/"
+            }, {
+               "date_added": "13252181184000000",
+               "guid": "2f7fc298-b776-4761-909b-79e4cd37f00e",
+               "id": "95",
+               "name": "BookStack",
+               "type": "url",
+               "url": "https://www.bookstackapp.com/"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13232809656000000",
+                     "guid": "450c385a-4535-4518-85f9-c744bc62d4e4",
+                     "id": "98",
+                     "name": "Whimsical",
+                     "type": "url",
+                     "url": "https://whimsical.com/2hnNKz4pDMmC69Bp8dXT3G"
+                  }, {
+                     "date_added": "13232755823000000",
+                     "guid": "24297595-80da-4424-b09c-d17bcf68f033",
+                     "id": "99",
+                     "name": "How to Choose the Right Technology For Your Startup",
+                     "type": "url",
+                     "url": "https://medium.com/tsftech/choosing-technology-stack-for-a-startup-708b623ca42"
+                  }, {
+                     "date_added": "13232784994000000",
+                     "guid": "955d74e4-ac9d-4948-8da8-60db37fca7c2",
+                     "id": "100",
+                     "name": "Here’s Every Book, Blog and Tool I Wish I Shared with Our Tech Startup Founders",
+                     "type": "url",
+                     "url": "https://medium.com/tsftech/things-every-tech-startup-founder-should-understand-when-starting-868610bd9bc6"
+                  }, {
+                     "date_added": "13234915586000000",
+                     "guid": "de932a4b-063a-4a12-aff7-b0ab3572ee46",
+                     "id": "101",
+                     "name": "Redux Tutorial by Dan Abramov on egghead.io",
+                     "type": "url",
+                     "url": "https://egghead.io/courses/getting-started-with-redux"
+                  }, {
+                     "date_added": "13236898207000000",
+                     "guid": "5edf9a1a-c14a-4dda-8bcb-daf5fedec2c3",
+                     "id": "102",
+                     "name": "Reactive in practice: A complete guide to event-driven systems development in Java – IBM Developer",
+                     "type": "url",
+                     "url": "https://developer.ibm.com/series/reactive-in-practice/"
+                  } ],
+                  "date_added": "13254678729711046",
+                  "date_modified": "0",
+                  "guid": "e7bdb5b0-2e01-4fcf-ac21-31f0234169dc",
+                  "id": "97",
+                  "name": "Tools and resources",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13232661082000000",
+                     "guid": "0d86fa89-5c1e-4c67-a9ef-45618ed70745",
+                     "id": "104",
+                     "name": "lagom/online-auction-scala",
+                     "type": "url",
+                     "url": "https://github.com/lagom/online-auction-scala"
+                  }, {
+                     "date_added": "13232789845000000",
+                     "guid": "34dcf882-c3ad-4e03-8df2-64b4bcc97c3f",
+                     "id": "105",
+                     "name": "Deploying Clustered Akka Applications on Amazon ECS",
+                     "type": "url",
+                     "url": "https://medium.com/@ukayani/deploying-clustered-akka-applications-on-amazon-ecs-fbcca762a44c"
+                  }, {
+                     "date_added": "13232810226000000",
+                     "guid": "a25bc791-08c0-4079-82f9-6c62586ce9ca",
+                     "id": "106",
+                     "name": "How To Build Stateful, Cloud-Native Services With Akka and Kubernetes | White Paper | @lightbend",
+                     "type": "url",
+                     "url": "https://www.lightbend.com/white-papers-and-reports/stateful-cloud-native-services-with-akka-and-kubernetes"
+                  }, {
+                     "date_added": "13232843570000000",
+                     "guid": "2bb129db-d172-4cc4-a176-bb2e519b23a2",
+                     "id": "107",
+                     "name": "HashiCorp Terraform: Enterprise Pricing, Packages & Features",
+                     "type": "url",
+                     "url": "https://www.hashicorp.com/products/terraform/pricing/"
+                  } ],
+                  "date_added": "13254678729715135",
+                  "date_modified": "0",
+                  "guid": "392017e8-a89e-47c6-98c6-7a91c0e76697",
+                  "id": "103",
+                  "name": "Backend",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "children": [ {
+                        "date_added": "13233066851000000",
+                        "guid": "8ae62a1c-faba-48f8-ac54-82c08d707aef",
+                        "id": "110",
+                        "name": "1 - Convert SVG to valid JSX",
+                        "type": "url",
+                        "url": "https://svg2jsx.com/"
+                     }, {
+                        "date_added": "13233066859000000",
+                        "guid": "1901cf27-bca4-4106-a1cf-cf77c0fd258a",
+                        "id": "111",
+                        "name": "2 - SVGR",
+                        "type": "url",
+                        "url": "https://react-svgr.com/playground/?native=true"
+                     } ],
+                     "date_added": "13254678729718857",
+                     "date_modified": "0",
+                     "guid": "683a865f-f889-4376-917f-3bded6397207",
+                     "id": "109",
+                     "name": "svg2react",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13233088768000000",
+                        "guid": "a814c5a4-a742-4641-89d4-60abeb7c4bb7",
+                        "id": "113",
+                        "name": "Alon Valadji - Build React Apps Fast Using Storybook, DDD, and Atomic Design | React Next 2019 - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=gLJvbrwv67c&feature=emb_rel_end"
+                     }, {
+                        "date_added": "13233145289000000",
+                        "guid": "9a16bf72-3e47-45ba-b834-4c0895932f3c",
+                        "id": "114",
+                        "name": "react-native-hybrid-storybook-examples/crna at master · jakubjafra/react-native-hybrid-storybook-examples",
+                        "type": "url",
+                        "url": "https://github.com/jakubjafra/react-native-hybrid-storybook-examples/tree/master/crna?spm=a2c6h.14275010.0.0.143b5b12DDii5B"
+                     }, {
+                        "date_added": "13233145310000000",
+                        "guid": "c23e4ad7-d220-434b-af1e-a6bfbfce6001",
+                        "id": "115",
+                        "name": "Package - react-native-hybrid-storybook",
+                        "type": "url",
+                        "url": "https://developer.aliyun.com/mirror/npm/package/react-native-hybrid-storybook"
+                     }, {
+                        "date_added": "13233145350000000",
+                        "guid": "96ea664e-92ff-4d6d-966a-9cffde3b8b1b",
+                        "id": "116",
+                        "name": "javidjamae/expo-with-storybook-howto: How to setup an Expo-based React Native project to use Storybook",
+                        "type": "url",
+                        "url": "https://github.com/javidjamae/expo-with-storybook-howto"
+                     }, {
+                        "date_added": "13233178661000000",
+                        "guid": "6006ac66-a507-4b8c-af8e-5f851f235882",
+                        "id": "117",
+                        "name": "Distribute UI across an organization | Storybook Tutorials",
+                        "type": "url",
+                        "url": "https://www.learnstorybook.com/design-systems-for-developers/react/en/distribute/"
+                     } ],
+                     "date_added": "13254678729720705",
+                     "date_modified": "0",
+                     "guid": "b7172aa5-e08d-4861-80af-f851c140158f",
+                     "id": "112",
+                     "name": "Storybook",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13233078441000000",
+                        "guid": "d90e73fb-e73d-4a4e-b6e3-d2965e24b513",
+                        "id": "119",
+                        "name": "An efficient way to structure React Native projects | Cheesecake Labs",
+                        "type": "url",
+                        "url": "https://cheesecakelabs.com/blog/efficient-way-structure-react-native-projects/"
+                     }, {
+                        "date_added": "13232810234000000",
+                        "guid": "50408b56-f067-4702-8ed9-7e866d426bf6",
+                        "id": "120",
+                        "name": "React Native · A framework for building native apps using React",
+                        "type": "url",
+                        "url": "https://reactnative.dev/"
+                     }, {
+                        "date_added": "13233080671000000",
+                        "guid": "c790176b-c993-4158-9cc4-9a06cc833d3a",
+                        "id": "121",
+                        "name": "Atomic Design with React | Cheesecake Labs",
+                        "type": "url",
+                        "url": "https://cheesecakelabs.com/blog/atomic-design-react/"
+                     }, {
+                        "date_added": "13233313089000000",
+                        "guid": "deb2583e-d24e-497b-aa7c-f804eadfcbfc",
+                        "id": "122",
+                        "name": "Reload a React Native app on an Android device manually via command line - Stack Overflow",
+                        "type": "url",
+                        "url": "https://stackoverflow.com/questions/44170991/reload-a-react-native-app-on-an-android-device-manually-via-command-line?rq=1"
+                     }, {
+                        "date_added": "13233351014000000",
+                        "guid": "cb69d96a-cd10-4bdf-9116-8e4137ab0c2c",
+                        "id": "123",
+                        "name": "Paper",
+                        "type": "url",
+                        "url": "https://callstack.github.io/react-native-paper/bottom-navigation.html"
+                     }, {
+                        "date_added": "13233416353000000",
+                        "guid": "bae20558-abd3-4748-8f55-7b3746cc3e25",
+                        "id": "124",
+                        "name": "React Navigation v5 + React Native Paper = ❤️ | React Navigation",
+                        "type": "url",
+                        "url": "https://reactnavigation.org/blog/2020/01/29/using-react-navigation-5-with-react-native-paper/"
+                     }, {
+                        "date_added": "13233492275000000",
+                        "guid": "fc20d693-a8a8-4fea-810d-fe0f5a12925c",
+                        "id": "125",
+                        "name": "Concevez une navigation entre vos vues - Développez une application mobile React Native - OpenClassrooms",
+                        "type": "url",
+                        "url": "https://openclassrooms.com/fr/courses/4902061-developpez-une-application-mobile-react-native/5046301-concevez-une-navigation-entre-vos-vues"
+                     } ],
+                     "date_added": "13254678729724550",
+                     "date_modified": "0",
+                     "guid": "04ec64df-215f-492f-80e0-77fdc0b1d080",
+                     "id": "118",
+                     "name": "React Native",
+                     "type": "folder"
+                  } ],
+                  "date_added": "13254678729718278",
+                  "date_modified": "13254678729718278",
+                  "guid": "484eb17b-8d52-443f-8798-c7439e59e36b",
+                  "id": "108",
+                  "name": "Frontend",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13232842021000000",
+                     "guid": "85a2cba1-344c-480f-b78c-5dac7eec2cd3",
+                     "id": "127",
+                     "name": "Thoughts on state management with XState and ReactJS - DEV Community 👩‍💻👨‍💻",
+                     "type": "url",
+                     "url": "https://dev.to/rjdestigter/thoughts-on-state-management-with-xstate-and-reactjs-3d19"
+                  }, {
+                     "date_added": "13234655147000000",
+                     "guid": "70d47300-8e32-4bef-823e-5877106cd72d",
+                     "id": "128",
+                     "name": "How to: mobx-state-tree + react + typescript - DEV",
+                     "type": "url",
+                     "url": "https://dev.to/margaretkrutikova/how-to-mobx-state-tree-react-typescript-3d5j"
+                  }, {
+                     "date_added": "13234649436000000",
+                     "guid": "82217f85-05e3-4d5c-b39c-2d2943600a4c",
+                     "id": "129",
+                     "name": "Render mobx-state-tree Models in React from @mweststrate on @eggheadio",
+                     "type": "url",
+                     "url": "https://egghead.io/lessons/react-render-mobx-state-tree-models-in-react"
+                  }, {
+                     "date_added": "13234646144000000",
+                     "guid": "f019789a-4877-4cd3-9f66-9634e55b9b9c",
+                     "id": "130",
+                     "name": "MobX: Ten minute introduction to MobX and React",
+                     "type": "url",
+                     "url": "https://mobx.js.org/getting-started.html"
+                  }, {
+                     "date_added": "13234369836000000",
+                     "guid": "2ca83933-0d95-4103-8b41-a5ed5142857c",
+                     "id": "131",
+                     "name": "Manage Complex State in React Apps with MobX from @mweststrate on @eggheadio",
+                     "type": "url",
+                     "url": "https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx"
+                  }, {
+                     "date_added": "13234899900000000",
+                     "guid": "bd4afec8-615a-4ad7-abe5-25fa0295d7f8",
+                     "id": "132",
+                     "name": "markerikson/react-redux-links: Curated tutorial and resource links I've collected on React, Redux, ES6, and more",
+                     "type": "url",
+                     "url": "https://github.com/markerikson/react-redux-links"
+                  }, {
+                     "date_added": "13234913134000000",
+                     "guid": "288d8ecc-5beb-4514-8664-44532f1764cd",
+                     "id": "133",
+                     "name": "State management in React Native using context - DEV",
+                     "type": "url",
+                     "url": "https://dev.to/emeka/state-management-in-react-native-using-context-14no"
+                  }, {
+                     "date_added": "13234914932000000",
+                     "guid": "d4c559c6-8890-4cfe-b379-83623345c8c3",
+                     "id": "134",
+                     "name": "State Management in React Native — SitePoint",
+                     "type": "url",
+                     "url": "https://www.sitepoint.com/state-management-in-react-native/"
+                  }, {
+                     "date_added": "13234954030000000",
+                     "guid": "5bfd0f74-1e2d-4f90-8b51-2f0b89c65cc0",
+                     "id": "135",
+                     "name": "React State Management In a GraphQL Era - Kitze - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=Q54YDGC_t3Y"
+                  } ],
+                  "date_added": "13254678729729801",
+                  "date_modified": "0",
+                  "guid": "31d213e4-a834-4de4-9bb3-61af8176c9e1",
+                  "id": "126",
+                  "name": "State management - Thoughts",
+                  "type": "folder"
+               } ],
+               "date_added": "13254678729710480",
+               "date_modified": "13254678729710480",
+               "guid": "1746530a-95de-4a2e-aca7-e0e46fd41a3b",
+               "id": "96",
+               "name": "Occauz",
+               "type": "folder"
+            } ],
+            "date_added": "13254678729706814",
+            "date_modified": "13256650757818309",
+            "guid": "33de4828-d02e-458d-8bc5-70788e3ee095",
+            "id": "90",
+            "name": "Ideas",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13037913047000000",
+               "guid": "36c962cb-20c9-46c2-b510-621cc7a83856",
+               "id": "137",
+               "name": "Archlinux on Macbook Air 6,2 (2013) Install | Frank Shin | Frank Shin",
+               "type": "url",
+               "url": "http://www.frankshin.com/installing-archlinux-on-macbook-air-2013/"
+            }, {
+               "date_added": "13049927879000000",
+               "guid": "b2ae7015-2a7c-42be-b91b-9bbed79128d3",
+               "id": "138",
+               "name": "Infinit.io",
+               "type": "url",
+               "url": "http://korben.info/transferer-fichiers-mac.html"
+            }, {
+               "date_added": "13069092217000000",
+               "guid": "03954919-9eaf-4d5e-9c15-baf6f0f2dacc",
+               "id": "139",
+               "name": "5 Secret Restaurants in Paris | Messy Nessy Chic",
+               "type": "url",
+               "url": "http://www.messynessychic.com/2013/05/30/5-secret-restaurants-in-paris/?PageSpeed=noscript"
+            }, {
+               "date_added": "13069093279000000",
+               "guid": "9c9f2253-0625-4369-84e1-7ba71b3611bc",
+               "id": "140",
+               "name": "Cool, but obscure unix tools :: Software architect Kristof Kovacs",
+               "type": "url",
+               "url": "http://kkovacs.eu/cool-but-obscure-unix-tools"
+            }, {
+               "date_added": "13072808670000000",
+               "guid": "00643383-ae4f-49e3-ac78-49f8fd8b2f64",
+               "id": "141",
+               "name": "Taekwondo technic 2 MON DOLIO NAKO CHAGUI - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=CTmJgQeZR7c"
+            }, {
+               "date_added": "13072809077000000",
+               "guid": "44a2c429-30d7-4c24-99e6-a38ccdef186a",
+               "id": "142",
+               "name": "La souplesse",
+               "type": "url",
+               "url": "http://www.tkdclubvichy.com/pages/pratique-et-philosophie/la-souplesse.html"
+            }, {
+               "date_added": "13073686061000000",
+               "guid": "263cdec0-87cc-4d0e-9c59-7dc28558049b",
+               "id": "143",
+               "name": "IUT CPB",
+               "type": "url",
+               "url": "http://infodoc.iut.univ-aix.fr/~pain-barre/index.php"
+            }, {
+               "date_added": "13081716737000000",
+               "guid": "6fe46d50-7dd6-4f82-9908-69cb6db257a1",
+               "id": "144",
+               "name": "RaspyFi - La HiFi Raspberry Pi - Korben",
+               "type": "url",
+               "url": "http://korben.info/raspyfi.html"
+            }, {
+               "date_added": "13095255118000000",
+               "guid": "aa744f41-02a3-4dea-b1ab-f1895327f40a",
+               "id": "145",
+               "name": "Koel (spotify)",
+               "type": "url",
+               "url": "https://github.com/phanan/koel/wiki"
+            }, {
+               "date_added": "13097109586000000",
+               "guid": "18bd4dae-f9da-41c7-b246-143cdb35caa2",
+               "id": "146",
+               "name": "[Tuto] H60-L04 Android 4.4 Déverrouiller le Bootloader, custom recovery et rooter avec MultiTool - Honor 6 - Développement, Rom & Tutoriels - Forum de FrAndroid",
+               "type": "url",
+               "url": "http://forum.frandroid.com/topic/206979-tuto-h60-l04-android-44-d%C3%A9verrouiller-le-bootloader-custom-recovery-et-rooter-avec-multitool/"
+            }, {
+               "date_added": "13097882483000000",
+               "guid": "39cb5ca0-a677-4e88-ae7a-53589d0da3b3",
+               "id": "147",
+               "name": "Arduino - Utiliser un capteur de mouvement (PIR)",
+               "type": "url",
+               "url": "http://mycoolpizza.blogspot.fr/2013/05/arduino-utiliser-un-capteur-de.html"
+            }, {
+               "date_added": "13097971012000000",
+               "guid": "8cd0e221-b663-4091-af7e-7c8abd36cba2",
+               "id": "148",
+               "name": "XBee Arduino",
+               "type": "url",
+               "url": "http://xbeearduino.fr/"
+            }, {
+               "date_added": "13097971937000000",
+               "guid": "d684e652-f2cb-4dfd-80af-6383bc564f66",
+               "id": "149",
+               "name": "XBee Basics - Lesson 1 - General Information and Initial Setup - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=odekkumB3WQ"
+            }, {
+               "date_added": "13098130898000000",
+               "guid": "5d9ed64b-f4f1-4bc9-ba1e-73b3b37adef2",
+               "id": "150",
+               "name": "Compass, sauvez l'intégrateur ! — Introduction à Compass — piouPiouM’s dev",
+               "type": "url",
+               "url": "http://pioupioum.fr/compass-sauvez-integrateur/"
+            }, {
+               "date_added": "13098368538000000",
+               "guid": "74087918-3303-40c3-8c6d-25a3e6a79090",
+               "id": "151",
+               "name": "Android5.1+EMUI3.1 beta launched for Honor 6 - Pg. 26 | Huawei Honor 6, Honor 6x",
+               "type": "url",
+               "url": "http://forum.xda-developers.com/honor-6/general/android5-1-emui3-1-beta-launched-honor-6-t3127689/page26"
+            }, {
+               "date_added": "13098481618000000",
+               "guid": "664db672-5551-4476-8ffb-7e0003210f4f",
+               "id": "152",
+               "name": "Raspberry Pi • View topic - Wifi horribly slow. RTL8188CUS",
+               "type": "url",
+               "url": "https://www.raspberrypi.org/forums/viewtopic.php?p=493626"
+            }, {
+               "date_added": "13098492355000000",
+               "guid": "551ea216-b653-449c-84cd-f34ffd296731",
+               "id": "153",
+               "name": "Mise en place d'une Seedbox avec Transmission Daemon | Services | IT-Connect",
+               "type": "url",
+               "url": "http://www.it-connect.fr/mise-en-place-dune-seedbox-avec-transmission-daemon/"
+            }, {
+               "date_added": "13098744330000000",
+               "guid": "b2f003b3-d658-4be3-98e4-0da2a3f1aebe",
+               "id": "154",
+               "name": "Beginner’s Guide to Arch Linux on the Raspberry Pi – Rants & Raves – The Blog!",
+               "type": "url",
+               "url": "http://qdosmsq.dunbar-it.co.uk/blog/2013/06/beginners-guide-to-arch-linux-on-the-raspberry-pi/"
+            }, {
+               "date_added": "13098744543000000",
+               "guid": "1f6db36d-965d-409b-8e8b-a2a7ea6ff1f2",
+               "id": "155",
+               "name": "Raspberry Pi 2 | Arch Linux ARM",
+               "type": "url",
+               "url": "http://archlinuxarm.org/platforms/armv7/broadcom/raspberry-pi-2"
+            }, {
+               "date_added": "13179451401000000",
+               "guid": "1e86aedf-5d56-48e3-9c70-9ab5547a9324",
+               "id": "156",
+               "name": "playlist 100% rebeu pour fêter l'Aïd jusqu'au bout de la nuit",
+               "type": "url",
+               "url": "http://www.konbini.com/fr/entertainment-2/playlist-arabo-pop-bled-pour-feter-danser-laid/"
+            }, {
+               "date_added": "13187024390000000",
+               "guid": "2603f181-a770-47a7-9edf-c4ae9509b1d9",
+               "id": "157",
+               "name": "Google Authenticator's Databases: Copy, Move and Fix - Eric Duncan",
+               "type": "url",
+               "url": "https://eduncan911.com/technology/hardware/google-authenticator-databases-move-copy-fix.html"
+            }, {
+               "date_added": "13069241555000000",
+               "guid": "9a7f41b5-c38e-4b31-9b42-11afcdd3e38a",
+               "id": "158",
+               "name": "Robocraft sur Steam",
+               "type": "url",
+               "url": "http://store.steampowered.com/app/301520/"
+            }, {
+               "date_added": "13099080880000000",
+               "guid": "d0b55132-47f4-4853-a14d-3c7e67b34a6b",
+               "id": "159",
+               "name": "Creating Scroll-based Animations using jQuery and CSS3",
+               "type": "url",
+               "url": "http://www.sitepoint.com/scroll-based-animations-jquery-css3/"
+            }, {
+               "date_added": "13099673258000000",
+               "guid": "34e8ea22-f708-44b1-bbf3-fc2bd8ec6481",
+               "id": "160",
+               "name": "Progressive Web Apps | Web Fundamentals - Google Developers",
+               "type": "url",
+               "url": "https://developers.google.com/web/progressive-web-apps"
+            }, {
+               "date_added": "13100544396000000",
+               "guid": "3e75d377-2b89-4a73-a679-0c7a5ca21415",
+               "id": "161",
+               "name": "IOT",
+               "type": "url",
+               "url": "http://www.objetconnecte.com/chantiers-connectes-nouveau-terrain-startups-iot/"
+            }, {
+               "date_added": "13106947814000000",
+               "guid": "5a1f2b70-e7cb-4635-98c8-6c2ffa92a099",
+               "id": "162",
+               "name": "Chemise sur Mesure Saint Sens - Chemise Homme Sur Mesure Made in France",
+               "type": "url",
+               "url": "http://www.saintsens.com/chemises-mensurations-c.htm"
+            }, {
+               "date_added": "13107299969000000",
+               "guid": "c6e2a670-06e9-405c-9787-763a2ebefc1f",
+               "id": "163",
+               "name": "POSIX Threads Programming",
+               "type": "url",
+               "url": "https://computing.llnl.gov/tutorials/pthreads/"
+            }, {
+               "date_added": "13109347870000000",
+               "guid": "2d434621-35ca-47c6-85db-1aba5323100b",
+               "id": "164",
+               "name": "Algorithms | Computer science | Khan Academy",
+               "type": "url",
+               "url": "https://www.khanacademy.org/computing/computer-science/algorithms"
+            }, {
+               "date_added": "13119649531000000",
+               "guid": "7a98d929-0689-4e9e-a539-3ada01addd2f",
+               "id": "165",
+               "name": "Root a Mac in 10 seconds or less – Patrick Mosca",
+               "type": "url",
+               "url": "http://patrickmosca.com/root-a-mac-in-10-seconds-or-less/"
+            }, {
+               "date_added": "13120930184000000",
+               "guid": "680b4e83-4faa-4bf5-aab6-35ac5c26143f",
+               "id": "166",
+               "name": "Tuto Docker - Démarrer Docker (Partie 2) - Wanadev",
+               "type": "url",
+               "url": "https://www.wanadev.fr/24-tuto-docker-demarrer-docker-partie-2/"
+            }, {
+               "date_added": "13120930215000000",
+               "guid": "af81d58d-7dc3-4de5-b539-896d27c87692",
+               "id": "167",
+               "name": "Tutoriel Symfony et Docker grâce à docker-compose | Baptiste Donaux - Blog",
+               "type": "url",
+               "url": "https://www.baptiste-donaux.fr/tutoriel-docker-symfony-docker-compose/"
+            }, {
+               "date_added": "13123272692000000",
+               "guid": "6bb62d8a-9e16-40b7-83f3-21b851d20a81",
+               "id": "168",
+               "name": "Utiliser Jenkins pour un projet Symfony2 – Lazy Blog .:. by Thomas Quiroga",
+               "type": "url",
+               "url": "http://blog.lazycloud.net/fr/utiliser-jenkins-pour-un-projet-symfony2/"
+            }, {
+               "date_added": "13123350967000000",
+               "guid": "7ad14e7e-ade0-4af6-8233-cfc18a918586",
+               "id": "169",
+               "name": "FosUserBundle and HWIOAuthBundle",
+               "type": "url",
+               "url": "https://gist.github.com/danvbe/4476697"
+            }, {
+               "date_added": "13123367288000000",
+               "guid": "2098a30c-d8e5-4a2c-8fee-c43b02ea63ba",
+               "id": "170",
+               "name": "Provisionner des microservices avec Ansible et Docker : Inovia Blog",
+               "type": "url",
+               "url": "http://blog.inovia-conseil.fr/?p=180"
+            }, {
+               "date_added": "13125508310000000",
+               "guid": "60731b55-a37c-498b-9725-2b003036326d",
+               "id": "171",
+               "name": "URL Shortener",
+               "type": "url",
+               "url": "https://www.sitepoint.com/building-your-own-url-shortener/"
+            }, {
+               "date_added": "13125670863000000",
+               "guid": "aaa7ecf8-8622-487b-9f91-edfd39b85e66",
+               "id": "172",
+               "name": "jQuery Tag-it!",
+               "type": "url",
+               "url": "http://aehlke.github.io/tag-it/"
+            }, {
+               "date_added": "13125676537000000",
+               "guid": "578eec9b-2cff-40e0-a326-fbb9b8ef8e7c",
+               "id": "173",
+               "name": "Pixabay/jQuery-tagEditor: A powerful and lightweight tag editor plugin for jQuery.",
+               "type": "url",
+               "url": "https://github.com/Pixabay/jQuery-tagEditor"
+            }, {
+               "date_added": "13129078441000000",
+               "guid": "4f36b2dd-62a2-4b1e-909b-41cf68b4df7e",
+               "id": "174",
+               "name": "Se lancer dans Sass",
+               "type": "url",
+               "url": "https://la-cascade.io/se-lancer-dans-sass/"
+            }, {
+               "date_added": "13129150466000000",
+               "guid": "a2a73e9e-4fd2-4dbc-bfbf-e080d0d439f0",
+               "id": "175",
+               "name": "Learn - Learn And The Power Of Community",
+               "type": "url",
+               "url": "https://learn.co/tracks/welcome-to-community-powered-bootcamp/getting-started/getting-started/learn-and-the-power-of-community"
+            }, {
+               "date_added": "13135724176000000",
+               "guid": "89823c90-cbe8-4a39-a1a5-2fbdc8537408",
+               "id": "176",
+               "name": "Chainy: Aeon short links and proof of exists. Engraved on the Ethereum Blockchain.",
+               "type": "url",
+               "url": "https://chainy.info/"
+            }, {
+               "date_added": "13138021409000000",
+               "guid": "6fcefe0e-66fe-4c56-9342-c62c7feb46f3",
+               "id": "177",
+               "name": "Schnouki/spop: A Spotify client running as a daemon, similar to mpd.",
+               "type": "url",
+               "url": "https://github.com/Schnouki/spop"
+            }, {
+               "date_added": "13138027515000000",
+               "guid": "bddf2e03-65a5-4c87-9cb0-57ca354838fd",
+               "id": "178",
+               "name": "Raspberry Pi As Hi-Fi Player With RuneAudio: 6 Steps (with Pictures)",
+               "type": "url",
+               "url": "http://www.instructables.com/id/Raspberry-Pi-as-Hi-Fi-player-with-RuneAudio/"
+            }, {
+               "date_added": "13148928258000000",
+               "guid": "77a9de18-5c95-4b50-8db8-31fa365001cb",
+               "id": "179",
+               "name": "Aluna Crypto Currency & Trading: BTC Exchange Tutorial [Updated]: Bitfinex Trading Platform - Beginners Guide on How to Margin Trade Bitcoin & Altcoins",
+               "type": "url",
+               "url": "http://alunacrypto.blogspot.fr/2017/02/bitcoin-exchange-tutorial-bitfinex-beginners-guide-how-to-margin-trade-bitcoin-altcoins.html"
+            }, {
+               "date_added": "13150053649000000",
+               "guid": "4f078533-562a-4a37-85c8-6b947af72046",
+               "id": "180",
+               "name": "WebFlow",
+               "type": "url",
+               "url": "https://webflow.com/"
+            }, {
+               "date_added": "13155171237000000",
+               "guid": "9b288947-d3c6-4501-ae32-5e6359d849db",
+               "id": "181",
+               "name": "Object Types | GraphQL.js Tutorial",
+               "type": "url",
+               "url": "http://graphql.org/graphql-js/object-types/"
+            }, {
+               "date_added": "13155574596000000",
+               "guid": "3cd3ca81-a092-4913-95cd-e881c34c77bd",
+               "id": "182",
+               "name": "graphql-shorthand-notation-cheat-sheet.png (2526×1785)",
+               "type": "url",
+               "url": "https://raw.githubusercontent.com/sogko/graphql-shorthand-notation-cheat-sheet/master/graphql-shorthand-notation-cheat-sheet.png"
+            }, {
+               "date_added": "13155584565000000",
+               "guid": "ed54827a-6a8c-4523-b608-bc8bc333e4b1",
+               "id": "183",
+               "name": "GraphQL Servers Overview Tutorial",
+               "type": "url",
+               "url": "https://www.howtographql.com/advanced/1-server/"
+            }, {
+               "date_added": "13156295355000000",
+               "guid": "48eac0da-8655-483d-b4af-942a48297ed1",
+               "id": "184",
+               "name": "Imprimer un document en vous l'envoyant par email - Korben",
+               "type": "url",
+               "url": "https://korben.info/imprimer-par-mail.html"
+            }, {
+               "date_added": "13171906926000000",
+               "guid": "603232a6-3096-4247-9909-0c5c7a837d2b",
+               "id": "185",
+               "name": "StackOverflow tech stack",
+               "type": "url",
+               "url": "http://highscalability.com/blog/2014/7/21/stackoverflow-update-560m-pageviews-a-month-25-servers-and-i.html"
+            }, {
+               "date_added": "13184023174000000",
+               "guid": "b528e944-ed2c-4f23-9382-92c8523d2446",
+               "id": "186",
+               "name": "Créer un NAS avec votre Raspberry Pi et Samba.",
+               "type": "url",
+               "url": "https://raspbian-france.fr/raspberry-pi-nas-samba/"
+            }, {
+               "date_added": "13197481738000000",
+               "guid": "aeb4b208-f7df-450e-832d-dd10429f7c77",
+               "id": "187",
+               "name": "My day to day tools - Jay Collett",
+               "type": "url",
+               "url": "https://www.jaycollett.co/posts/my-day-to-day-tools"
+            }, {
+               "date_added": "13197590675000000",
+               "guid": "00380c6c-13b5-409e-a43f-e27e56a2b407",
+               "id": "188",
+               "name": "Form controls | Bulma: Free, open source, & modern CSS framework based on Flexbox",
+               "type": "url",
+               "url": "https://bulma.io/documentation/form/general/"
+            }, {
+               "date_added": "13204563352000000",
+               "guid": "98fd97b5-e737-4ad5-bd41-2b094d89a2a7",
+               "id": "189",
+               "name": "Raspotify | raspotify",
+               "type": "url",
+               "url": "https://dtcooper.github.io/raspotify/"
+            }, {
+               "date_added": "13204573757000000",
+               "guid": "eecc5036-4c1b-4199-8a64-b9e9a5a053a3",
+               "id": "190",
+               "name": "Scala OC",
+               "type": "url",
+               "url": "https://openclassrooms.com/fr/courses/409949-apprenez-la-programmation-avec-scala/409697-pourquoi-scala"
+            }, {
+               "date_added": "13204673741000000",
+               "guid": "d563612d-7079-479a-a766-5a3eac03abd7",
+               "id": "191",
+               "name": "La liste des plus grands classiques du cinéma selon Martin Scorsese",
+               "type": "url",
+               "url": "https://www.lebonbon.fr/marseille/cine-series/classiques-cinetek-liste/"
+            }, {
+               "date_added": "13216673680000000",
+               "guid": "69cce2dd-17f9-414a-8faf-048fae932524",
+               "id": "192",
+               "name": "ingoha/opensesame: OpenSesame attacks wireless garages and can open most fixed-code garages and gates in seconds using a Mattel toy",
+               "type": "url",
+               "url": "https://github.com/ingoha/opensesame"
+            }, {
+               "date_added": "13223067832000000",
+               "guid": "d03b9efe-6351-4575-80b1-431f98626f50",
+               "id": "193",
+               "name": "Netlify",
+               "type": "url",
+               "url": "https://www.netlify.com/pricing/"
+            }, {
+               "date_added": "13221082461000000",
+               "guid": "2c5ea9df-c5a2-4180-a399-20a78957e5b3",
+               "id": "194",
+               "name": "Linux Server with Amazon Linux AMI - Official 7 Days to Die Wiki",
+               "type": "url",
+               "url": "https://7daystodie.gamepedia.com/Linux_Server_with_Amazon_Linux_AMI#Install_SteamCMD"
+            }, {
+               "date_added": "13235241401000000",
+               "guid": "a298f4b2-41c7-4db8-83fd-a5dd7956f107",
+               "id": "195",
+               "name": "react-native-examples/CoinsList.js at master · amandeepmittal/react-native-examples",
+               "type": "url",
+               "url": "https://github.com/amandeepmittal/react-native-examples/blob/master/rnApolloCryptoListDemo/src/screens/CoinsList.js"
+            }, {
+               "date_added": "13248972361000000",
+               "guid": "0da6b94b-65d4-4319-af60-ff673a30baf7",
+               "id": "223",
+               "name": "TwitchAlerts Event List",
+               "type": "url",
+               "url": "https://codepen.io/lowheartrate/pen/mENpbE"
+            }, {
+               "date_added": "13253321896000000",
+               "guid": "8b0b5b1f-9af7-4f5b-8d19-d42fc8071c91",
+               "id": "224",
+               "name": "Creating a Cleaner MacOS Workspace - DEV",
+               "type": "url",
+               "url": "https://dev.to/m4cs/creating-a-cleaner-macos-workspace-2e35"
+            } ],
+            "date_added": "13254678729736547",
+            "date_modified": "13255786315538896",
+            "guid": "38a743ea-9df6-4765-b3fe-4aa1f28d3023",
+            "id": "136",
+            "name": "Autres",
+            "type": "folder"
+         } ],
+         "date_added": "13254672397186082",
+         "date_modified": "13258059880143042",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Barre de favoris",
+         "type": "folder"
+      },
+      "custom_root": {
+         "speedDial": {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13257966915716565",
+                  "guid": "c08c2a5f-71c1-450a-bd69-c4b7ef4e5b12",
+                  "id": "288",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/98762035733bfb1a9469d8caac95cf3bd48f6226.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/7f04e2fb73f4ec7f2ca125d2842523c757d3cf8b.png",
+                     "imageDataType": "2",
+                     "imageID": "0A04E00C4607F268D1000DD29FB11AC16E1DC38E9CCD535B084AF87ABA45F514",
+                     "imageType": "2",
+                     "partner_id": "amazon_fr",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/7f04e2fb73f4ec7f2ca125d2842523c757d3cf8b.png",
+                     "partner_url": "http://www.amazon.fr/?tag=operadesktop14-sd-fr-21",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/amazon_fr",
+                     "revision": "20201013",
+                     "server_position": "1"
+                  },
+                  "name": "Amazon.fr",
+                  "type": "url",
+                  "url": "http://www.amazon.fr/"
+               }, {
+                  "date_added": "13257966915720263",
+                  "guid": "9f800fff-1287-472a-b206-2cfb7f979e98",
+                  "id": "289",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/71568851e9c27fc3189da3830be37af764e365f6.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/3e0b5da0e976232819b743067e60d978f5830c88.png",
+                     "imageDataType": "2",
+                     "imageID": "BEAB0D49D4283EE9B4FA2EAC1CADED8E20346FA7A3994A4E9C961AFD8186CC90",
+                     "imageType": "2",
+                     "partner_id": "ebay_fr",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/3e0b5da0e976232819b743067e60d978f5830c88.png",
+                     "partner_url": "http://rover.ebay.com/rover/1/709-53476-19255-0/1?icep_ff3=1&pub=5574672411&toolid=10001&campid=5337314664&customid=&ipn=psmain&icep_vectorid=229480&kwid=902099&mtid=824&kw=lg",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/ebay_fr",
+                     "revision": "20171003",
+                     "server_position": "2"
+                  },
+                  "name": "eBay",
+                  "type": "url",
+                  "url": "http://www.ebay.fr/"
+               }, {
+                  "date_added": "13257966915731419",
+                  "guid": "8af1a8c6-7518-4006-8435-4bdbd7743cfa",
+                  "id": "290",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/a07ea74aa0b3aae5b7dc37789a2e834b1e883060.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/bd1ec98a8b358bc0cf68cad5a59c192b56d12dfc.png",
+                     "imageDataType": "2",
+                     "imageID": "2927498828C5AE69F685B89AB2C78250E59651632542A7013555819175954B5B",
+                     "imageType": "2",
+                     "partner_id": "booking_com_fr",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/bd1ec98a8b358bc0cf68cad5a59c192b56d12dfc.png",
+                     "partner_url": "https://www.booking.com/index.html?aid=343352&label=operasoft-sdO15-343352&utm_source=Opera&utm_medium=web&utm_campaign=sdO15",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/booking_com_fr",
+                     "revision": "20200710",
+                     "server_position": "3"
+                  },
+                  "name": "Booking.com",
+                  "type": "url",
+                  "url": "https://www.booking.com/"
+               }, {
+                  "date_added": "13257966915738774",
+                  "guid": "b8d08578-3fd6-4519-ac02-28325ebc953b",
+                  "id": "291",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/e2455ac8d1c967ae49e9be348ab9d1cd0abaec96.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/39cf29c29ff324c528dea4e84fc8706c97f50c6d.png",
+                     "imageDataType": "2",
+                     "imageID": "B4B4976BC64F42592BBCB4F853B03A3AB8C3549AF64E5D4A03683A5BD3A819F3",
+                     "imageType": "2",
+                     "partner_id": "cdiscount_com",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/39cf29c29ff324c528dea4e84fc8706c97f50c6d.png",
+                     "partner_url": "https://www.awin1.com/cread.php?awinmid=6948&awinaffid=141629&clickref=&ued=",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/cdiscount_com",
+                     "revision": "20171003",
+                     "server_position": "4"
+                  },
+                  "name": "Cdiscount",
+                  "type": "url",
+                  "url": "https://cdiscount.com/"
+               }, {
+                  "date_added": "13257966915744571",
+                  "guid": "9158f4bb-412c-41ab-8a7d-2ed57f2d754a",
+                  "id": "292",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/418b0f65b99dee887f5066ba42f551d277268cd8.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/5a466c9f65587b30b08252afe8e41fc800bdf1f6.png",
+                     "imageDataType": "2",
+                     "imageID": "1A86FA8FABE8FF11F967DA8CA6512D7616E13CC3F4672BF774E70252F03CBE2D",
+                     "imageType": "2",
+                     "partner_id": "bonprix_fr",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/5a466c9f65587b30b08252afe8e41fc800bdf1f6.png",
+                     "partner_url": "http://clkuk.tradedoubler.com/click?p=23164&a=2020327&g=23976938",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/bonprix_fr",
+                     "revision": "20171003",
+                     "server_position": "5"
+                  },
+                  "name": "Bonprix",
+                  "type": "url",
+                  "url": "https://www.bonprix.fr/"
+               }, {
+                  "date_added": "13257966915748568",
+                  "guid": "13b6e650-3cb8-46ed-8576-8a292283f2e6",
+                  "id": "293",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/609fa7dfdac6e13e43d220628faf73eb0bc67ff2.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/599423f462d2b4441842d9855493917934da2cf9.png",
+                     "imageDataType": "2",
+                     "imageID": "82909B926406328D2284882A01F1B0C7B86BE1724BDEE92E92B80490E683F7EE",
+                     "imageType": "2",
+                     "partner_id": "aliexpress_com",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/599423f462d2b4441842d9855493917934da2cf9.png",
+                     "partner_url": "https://s.click.aliexpress.com/e/kzNjsj1A",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/aliexpress_com",
+                     "revision": "20191110",
+                     "server_position": "6"
+                  },
+                  "name": "AliExpress",
+                  "type": "url",
+                  "url": "http://aliexpress.com/"
+               }, {
+                  "date_added": "13257966915750596",
+                  "guid": "90a3c40b-42cc-4af1-9104-369a57f1cd6f",
+                  "id": "294",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/5971a77fe255e213038540f7cf5d523230ad46ae.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/214c8539655b0d6c39c0e4cecc1ce0cd57356957.png",
+                     "imageDataType": "2",
+                     "imageID": "A406CD60AAD5979DF30EBB7ED7867647D097AAB503D65577C638CB73B30E7DE5",
+                     "imageType": "2",
+                     "partner_id": "fnac_fr",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/214c8539655b0d6c39c0e4cecc1ce0cd57356957.png",
+                     "partner_url": "https://www.awin1.com/cread.php?s=2178196&v=12665&q=339078&r=141629",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/fnac_fr",
+                     "revision": "20180221",
+                     "server_position": "8"
+                  },
+                  "name": "Fnac",
+                  "type": "url",
+                  "url": "https://www.fnac.com/"
+               }, {
+                  "date_added": "13257966915754164",
+                  "guid": "b039f20f-92fb-4be5-9b97-303fa6aabd3c",
+                  "id": "295",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/80cc9157023974d38a7b9483641ad5453b1a53bd.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/68eb25a5dc028414c41e2bb197bb2c62577b77fd.png",
+                     "imageDataType": "2",
+                     "imageID": "33130886D9C005DCE995351E41A2A7C1ED46433674F95C4DAB47B939B75A443C",
+                     "imageType": "2",
+                     "partner_id": "worldofwarships_fr",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/68eb25a5dc028414c41e2bb197bb2c62577b77fd.png",
+                     "partner_url": "https://rdr.wargaming.net/tkr7gktz/?pub_id=sd_fr",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/worldofwarships_fr",
+                     "revision": "20181203",
+                     "server_position": "9"
+                  },
+                  "name": "World of Warships",
+                  "type": "url",
+                  "url": "https://worldofwarships.eu/"
+               }, {
+                  "date_added": "13257966915755973",
+                  "guid": "c72eb592-5ec4-4048-8c1e-dc8bf9e33f51",
+                  "id": "296",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/5e72d1f91aa74b1a39e6103046b0b674486d6263.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/f634434721e1755037f67b259f3941b1a01eaabf.png",
+                     "imageDataType": "2",
+                     "imageID": "71215F638EF89325E69E4A9C3313A3EE29EDDD8EFECE682DABFDE35CA69BC8A9",
+                     "imageType": "2",
+                     "partner_id": "manomano_fr",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/f634434721e1755037f67b259f3941b1a01eaabf.png",
+                     "partner_url": "https://www.awin1.com/cread.php?awinmid=18448&awinaffid=141629&clickref=&p=",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/manomano_fr",
+                     "revision": "20190717",
+                     "server_position": "10"
+                  },
+                  "name": "ManoMano.fr",
+                  "type": "url",
+                  "url": "https://www.manomano.fr/"
+               }, {
+                  "date_added": "13257966915758674",
+                  "guid": "512eda47-54dc-4887-8cbe-104104f7cc36",
+                  "id": "297",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/f12664dbaa94dcc2d98e5247a4d8c9026a4a78e2.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/21d6ac349c688882709606742273ef1e279ae475.png",
+                     "imageDataType": "2",
+                     "imageID": "C4757800391D7ACAE7E65B54D248B3DC77582FB4021FCDB647D893A2A6A8730F",
+                     "imageType": "2",
+                     "partner_id": "forgeofempire_fr",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/21d6ac349c688882709606742273ef1e279ae475.png",
+                     "partner_url": "https://om.forgeofempires.com/foe/fr/?ref=operafix_fr_fr",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/forgeofempire_fr",
+                     "revision": "20210115",
+                     "server_position": "11"
+                  },
+                  "name": "Forge of Empires",
+                  "type": "url",
+                  "url": "https://om.forgeofempires.com/"
+               } ],
+               "date_added": "13257810314550282",
+               "date_modified": "13257966915758674",
+               "guid": "1ae20de9-c077-4597-af03-d837fd6decf7",
+               "id": "287",
+               "meta_info": {
+                  "speed_dial_root_folder_guid": "ab3969de-f010-45a0-b538-1b21b212352b"
+               },
+               "name": "arch",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13254672397355317",
+                  "guid": "de6838f6-4e6f-44bd-a976-07fc65b63ee4",
+                  "id": "9",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/98762035733bfb1a9469d8caac95cf3bd48f6226.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/7f04e2fb73f4ec7f2ca125d2842523c757d3cf8b.png",
+                     "imageDataType": "2",
+                     "imageID": "0A04E00C4607F268D1000DD29FB11AC16E1DC38E9CCD535B084AF87ABA45F514",
+                     "imageType": "2",
+                     "partner_id": "amazon_fr",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/7f04e2fb73f4ec7f2ca125d2842523c757d3cf8b.png",
+                     "partner_url": "http://www.amazon.fr/?tag=operadesktop14-sd-fr-21",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/amazon_fr",
+                     "revision": "20201013",
+                     "server_position": "1"
+                  },
+                  "name": "Amazon.fr",
+                  "type": "url",
+                  "url": "http://www.amazon.fr/"
+               }, {
+                  "date_added": "13254672397356125",
+                  "guid": "5e08b76a-46d2-4763-b410-aea719118005",
+                  "id": "10",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/71568851e9c27fc3189da3830be37af764e365f6.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/3e0b5da0e976232819b743067e60d978f5830c88.png",
+                     "imageDataType": "2",
+                     "imageID": "BEAB0D49D4283EE9B4FA2EAC1CADED8E20346FA7A3994A4E9C961AFD8186CC90",
+                     "imageType": "2",
+                     "partner_id": "ebay_fr",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/3e0b5da0e976232819b743067e60d978f5830c88.png",
+                     "partner_url": "http://rover.ebay.com/rover/1/709-53476-19255-0/1?icep_ff3=1&pub=5574672411&toolid=10001&campid=5337314664&customid=&ipn=psmain&icep_vectorid=229480&kwid=902099&mtid=824&kw=lg",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/ebay_fr",
+                     "revision": "20171003",
+                     "server_position": "2"
+                  },
+                  "name": "eBay",
+                  "type": "url",
+                  "url": "http://www.ebay.fr/"
+               }, {
+                  "date_added": "13254672397358350",
+                  "guid": "32045b2d-c2e5-48c2-b501-d5bca3f6ab31",
+                  "id": "11",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/a07ea74aa0b3aae5b7dc37789a2e834b1e883060.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/bd1ec98a8b358bc0cf68cad5a59c192b56d12dfc.png",
+                     "imageDataType": "2",
+                     "imageID": "2927498828C5AE69F685B89AB2C78250E59651632542A7013555819175954B5B",
+                     "imageType": "2",
+                     "partner_id": "booking_com_fr",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/bd1ec98a8b358bc0cf68cad5a59c192b56d12dfc.png",
+                     "partner_url": "https://www.booking.com/index.html?aid=343352&label=operasoft-sdO15-343352&utm_source=Opera&utm_medium=web&utm_campaign=sdO15",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/booking_com_fr",
+                     "revision": "20200710",
+                     "server_position": "3"
+                  },
+                  "name": "Booking.com",
+                  "type": "url",
+                  "url": "https://www.booking.com/"
+               }, {
+                  "date_added": "13254672397359789",
+                  "guid": "7ee44789-ff5c-41f4-9caf-20c25139dd33",
+                  "id": "12",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/e2455ac8d1c967ae49e9be348ab9d1cd0abaec96.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/39cf29c29ff324c528dea4e84fc8706c97f50c6d.png",
+                     "imageDataType": "2",
+                     "imageID": "B4B4976BC64F42592BBCB4F853B03A3AB8C3549AF64E5D4A03683A5BD3A819F3",
+                     "imageType": "2",
+                     "partner_id": "cdiscount_com",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/39cf29c29ff324c528dea4e84fc8706c97f50c6d.png",
+                     "partner_url": "https://www.awin1.com/cread.php?awinmid=6948&awinaffid=141629&clickref=&ued=",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/cdiscount_com",
+                     "revision": "20171003",
+                     "server_position": "4"
+                  },
+                  "name": "Cdiscount",
+                  "type": "url",
+                  "url": "https://cdiscount.com/"
+               }, {
+                  "date_added": "13254672397360958",
+                  "guid": "2ebe8538-0d50-480d-aa89-52c8060c5255",
+                  "id": "13",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/418b0f65b99dee887f5066ba42f551d277268cd8.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/5a466c9f65587b30b08252afe8e41fc800bdf1f6.png",
+                     "imageDataType": "2",
+                     "imageID": "1A86FA8FABE8FF11F967DA8CA6512D7616E13CC3F4672BF774E70252F03CBE2D",
+                     "imageType": "2",
+                     "partner_id": "bonprix_fr",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/5a466c9f65587b30b08252afe8e41fc800bdf1f6.png",
+                     "partner_url": "http://clkuk.tradedoubler.com/click?p=23164&a=2020327&g=23976938",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/bonprix_fr",
+                     "revision": "20171003",
+                     "server_position": "5"
+                  },
+                  "name": "Bonprix",
+                  "type": "url",
+                  "url": "https://www.bonprix.fr/"
+               }, {
+                  "date_added": "13254672397362053",
+                  "guid": "ec2ee393-f91e-45eb-b5ed-27f94f36d28e",
+                  "id": "14",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/609fa7dfdac6e13e43d220628faf73eb0bc67ff2.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/599423f462d2b4441842d9855493917934da2cf9.png",
+                     "imageDataType": "2",
+                     "imageID": "82909B926406328D2284882A01F1B0C7B86BE1724BDEE92E92B80490E683F7EE",
+                     "imageType": "2",
+                     "partner_id": "aliexpress_com",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/599423f462d2b4441842d9855493917934da2cf9.png",
+                     "partner_url": "https://s.click.aliexpress.com/e/kzNjsj1A",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/aliexpress_com",
+                     "revision": "20191110",
+                     "server_position": "6"
+                  },
+                  "name": "AliExpress",
+                  "type": "url",
+                  "url": "http://aliexpress.com/"
+               }, {
+                  "date_added": "13254672397362698",
+                  "guid": "9458539d-f014-4594-8d36-404cf8bccda8",
+                  "id": "15",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/5971a77fe255e213038540f7cf5d523230ad46ae.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/214c8539655b0d6c39c0e4cecc1ce0cd57356957.png",
+                     "imageDataType": "2",
+                     "imageID": "A406CD60AAD5979DF30EBB7ED7867647D097AAB503D65577C638CB73B30E7DE5",
+                     "imageType": "2",
+                     "partner_id": "fnac_fr",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/214c8539655b0d6c39c0e4cecc1ce0cd57356957.png",
+                     "partner_url": "https://www.awin1.com/cread.php?s=2178196&v=12665&q=339078&r=141629",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/fnac_fr",
+                     "revision": "20180221",
+                     "server_position": "8"
+                  },
+                  "name": "Fnac",
+                  "type": "url",
+                  "url": "https://www.fnac.com/"
+               }, {
+                  "date_added": "13254672397363952",
+                  "guid": "ed150b35-ae06-44a4-a5d7-c774e2c7c0aa",
+                  "id": "16",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/80cc9157023974d38a7b9483641ad5453b1a53bd.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/a93575d0c5d22b4e69542dd05faf54dcda250fa2.png",
+                     "imageDataType": "2",
+                     "imageID": "C1C07A73D7D2728762D89EB389FB3FE8F8CB8461B74F6568F1488B5AF606219D",
+                     "imageType": "2",
+                     "partner_id": "worldofwarships_fr",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/a93575d0c5d22b4e69542dd05faf54dcda250fa2.png",
+                     "partner_url": "https://rdr.wargaming.net/tkr7gktz/?pub_id=sd_fr",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/worldofwarships_fr",
+                     "revision": "20181203",
+                     "server_position": "9"
+                  },
+                  "name": "World of Warships",
+                  "type": "url",
+                  "url": "https://worldofwarships.eu/"
+               }, {
+                  "date_added": "13254672397364708",
+                  "guid": "971ffcb9-8239-474c-9974-7dc126c155ff",
+                  "id": "17",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/5e72d1f91aa74b1a39e6103046b0b674486d6263.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/f634434721e1755037f67b259f3941b1a01eaabf.png",
+                     "imageDataType": "2",
+                     "imageID": "71215F638EF89325E69E4A9C3313A3EE29EDDD8EFECE682DABFDE35CA69BC8A9",
+                     "imageType": "2",
+                     "partner_id": "manomano_fr",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/f634434721e1755037f67b259f3941b1a01eaabf.png",
+                     "partner_url": "https://www.awin1.com/cread.php?awinmid=18448&awinaffid=141629&clickref=&p=",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/manomano_fr",
+                     "revision": "20190717",
+                     "server_position": "10"
+                  },
+                  "name": "ManoMano.fr",
+                  "type": "url",
+                  "url": "https://www.manomano.fr/"
+               }, {
+                  "date_added": "13255439000333327",
+                  "guid": "e59f8177-48eb-4840-a1d5-eb4e955e5852",
+                  "id": "255",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/f12664dbaa94dcc2d98e5247a4d8c9026a4a78e2.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/21d6ac349c688882709606742273ef1e279ae475.png",
+                     "imageDataType": "2",
+                     "imageID": "C4757800391D7ACAE7E65B54D248B3DC77582FB4021FCDB647D893A2A6A8730F",
+                     "imageType": "2",
+                     "partner_id": "forgeofempire_fr",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/21d6ac349c688882709606742273ef1e279ae475.png",
+                     "partner_url": "https://om.forgeofempires.com/foe/fr/?ref=operafix_fr_fr",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/forgeofempire_fr",
+                     "revision": "20210115",
+                     "server_position": "11"
+                  },
+                  "name": "Forge of Empires",
+                  "type": "url",
+                  "url": "https://om.forgeofempires.com/"
+               }, {
+                  "date_added": "13255984403642478",
+                  "guid": "da27abbb-aff3-4e70-bc05-39d2bc893bc2",
+                  "id": "258",
+                  "name": "Pipeline Editor · Thomas PELLEGATTA / blog · GitLab",
+                  "type": "url",
+                  "url": "https://gitlab.com/peltho/blog/-/ci/editor"
+               } ],
+               "date_added": "13254672397243839",
+               "date_modified": "13255984403642478",
+               "guid": "f62ecad3-6ebf-4698-bf4f-10a2995385eb",
+               "id": "8",
+               "meta_info": {
+                  "speed_dial_root_folder_guid": "be78ed47-3612-4456-8d9e-0d79fd7aa59c"
+               },
+               "name": "arch",
+               "type": "folder"
+            } ],
+            "date_added": "13254672397186217",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-a000-000000000904",
+            "id": "6",
+            "name": "Speed Dials",
+            "type": "folder"
+         },
+         "trash": {
+            "children": [ {
+               "date_added": "13257342028730874",
+               "guid": "c516b3e2-82b3-47bb-90f7-681b56ddfb03",
+               "id": "275",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "68CC781237FC6DF0711733BDF50AC06C279AC92484DE1386F6A8648081A098EE",
+                  "imageIdentifier": "1146ef66",
+                  "imageType": "2",
+                  "undoTrashParentId": "262",
+                  "undoTrashParentIndex": "0"
+               },
+               "name": "SendGrid",
+               "type": "url",
+               "url": "https://app.sendgrid.com/login?redirect_to=%2F"
+            }, {
+               "date_added": "13208387348000000",
+               "guid": "842908e5-c88a-497e-8c62-0f60524a1784",
+               "id": "28",
+               "meta_info": {
+                  "undoTrashParentId": "1",
+                  "undoTrashParentIndex": "10"
+               },
+               "name": "Lightbend Academy",
+               "type": "url",
+               "url": "https://academy.lightbend.com/"
+            }, {
+               "date_added": "13255020585654142",
+               "guid": "147f6ce1-eada-4cb2-a797-139ef511b330",
+               "id": "254",
+               "meta_info": {
+                  "undoTrashParentId": "1",
+                  "undoTrashParentIndex": "23"
+               },
+               "name": "Bluetooth headset - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/index.php/Bluetooth_headset#Headset_via_Bluez5/bluez-alsa"
+            } ],
+            "date_added": "13254672397186222",
+            "date_modified": "13257342055823929",
+            "guid": "00000000-0000-4000-a000-000000000905",
+            "id": "7",
+            "name": "Corbeille",
+            "type": "folder"
+         },
+         "unsorted": {
+            "children": [  ],
+            "date_added": "13254672397186207",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-a000-000000000901",
+            "id": "4",
+            "name": "Favoris non classés",
+            "type": "folder"
+         },
+         "userRoot": {
+            "children": [ {
+               "date_added": "13123719337000000",
+               "guid": "55b41e0a-4cd5-4914-bf12-a497710905d1",
+               "id": "225",
+               "name": "Un week-end boites de nuit et soirées à Barcelone",
+               "type": "url",
+               "url": "http://les-bons-plans-de-barcelone.com/boites-de-nuit-soirees-barcelone-week-end-place-signe-fete/"
+            }, {
+               "date_added": "13134572132000000",
+               "guid": "8c4fb20a-a4a2-49c9-a144-b66049106e95",
+               "id": "226",
+               "name": "Docker on Windows — Mounting Host Directories",
+               "type": "url",
+               "url": "https://rominirani.com/docker-on-windows-mounting-host-directories-d96f3f056a2c#.fr9r1fyu6"
+            }, {
+               "date_added": "13162225561000000",
+               "guid": "75a70797-c338-4f66-97e9-327b435a8aa6",
+               "id": "227",
+               "name": "Vendre en dropshipping avec AliExpress : le guide complet",
+               "type": "url",
+               "url": "https://fr.shopify.com/blog/vendre-en-dropshipping-avec-aliexpress-le-guide-complet#comments"
+            }, {
+               "date_added": "13174686146000000",
+               "guid": "120604c2-9fe3-41f9-b40c-8cf8c8e70494",
+               "id": "228",
+               "name": "Syndrome de l'essuie glace, comment le soigner, causes, conséquences",
+               "type": "url",
+               "url": "http://www.la-semelle.com/syndrome-de-lessuie-glace/"
+            }, {
+               "date_added": "13190248692000000",
+               "guid": "3cc57a9b-04cb-4f3d-bc68-be705c5b22b0",
+               "id": "229",
+               "name": "ddrescue, dd_rescue, myrescue : récupérer ses données après un crash disque - LinuxFr.org",
+               "type": "url",
+               "url": "https://linuxfr.org/news/ddrescue-dd_rescue-myrescue-recuperer-ses-donnees-apres-un-crash-disque"
+            }, {
+               "date_added": "13206386293000000",
+               "guid": "945daf46-bf12-4594-b8cb-48733b83ef7d",
+               "id": "230",
+               "name": "Scala interview questions",
+               "type": "url",
+               "url": "https://pedrorijo.com/blog/scala-interview-questions/"
+            }, {
+               "date_added": "13230991239000000",
+               "guid": "4d686024-8c48-4ffa-9e50-539f6679b805",
+               "id": "231",
+               "name": "Five years of Raspberry Pi Clusters - Alex Ellis - Medium",
+               "type": "url",
+               "url": "https://medium.com/@alexellisuk/five-years-of-raspberry-pi-clusters-77e56e547875"
+            }, {
+               "date_added": "13230991283000000",
+               "guid": "a6a5e562-8805-4e76-8195-fccfa60cca69",
+               "id": "232",
+               "name": "Setting up pHAT DAC on your Raspberry Pi Zero - Pimoroni Yarr-niversity",
+               "type": "url",
+               "url": "https://learn.pimoroni.com/tutorial/phat/raspberry-pi-phat-dac-install"
+            }, {
+               "date_added": "13230991320000000",
+               "guid": "2b32b618-957a-47e1-b5d1-a295e0bdbfe0",
+               "id": "233",
+               "name": "Créer un hotspot Wi-Fi en moins de 10 minutes avec la Raspberry Pi !",
+               "type": "url",
+               "url": "https://raspberry-pi.fr/creer-un-hotspot-wi-fi-en-moins-de-10-minutes-avec-la-raspberry-pi/"
+            }, {
+               "date_added": "13230991409000000",
+               "guid": "b9ad1931-702a-461a-8b31-f1d8a4ac90b2",
+               "id": "234",
+               "name": "Svelte • Cybernetically enhanced web apps",
+               "type": "url",
+               "url": "https://svelte.dev/"
+            }, {
+               "date_added": "13230991468000000",
+               "guid": "f36faae2-f63f-41c2-9988-90f38681f603",
+               "id": "235",
+               "name": "Overview - squbs",
+               "type": "url",
+               "url": "https://squbs.readthedocs.io/en/latest/"
+            }, {
+               "date_added": "13231404638000000",
+               "guid": "b65a6c83-e694-45a1-8c70-12746195a2cb",
+               "id": "236",
+               "name": "Why You Shouldn’t Use Your ISP’s Default DNS Server",
+               "type": "url",
+               "url": "https://www.howtogeek.com/664608/why-you-shouldnt-be-using-your-isps-default-dns-server/"
+            }, {
+               "date_added": "13231769538000000",
+               "guid": "808e21c5-2201-4c19-a259-f8dde3ff91bb",
+               "id": "237",
+               "name": "Raspberry Pi : Transformer votre enceinte en enceinte connectée grâce à Balena Sound",
+               "type": "url",
+               "url": "https://www.clubic.com/raspberry-pi/article-891655-1-raspberry-pi-transformer-enceintes-airplay-spotify.html"
+            }, {
+               "date_added": "13232228864000000",
+               "guid": "0e5ff645-8339-4bd5-9874-0d1e39ec0e8e",
+               "id": "238",
+               "name": "Getting Play Framework running on Kubernetes with Google Cloud Platform",
+               "type": "url",
+               "url": "https://medium.com/beyond/getting-play-framework-running-on-kubernetes-with-google-cloud-platform-47ea7dd74ac0"
+            }, {
+               "date_added": "13232365664000000",
+               "guid": "35a4b02f-aa4e-46d8-a315-9318714f275c",
+               "id": "239",
+               "name": "Nomics: Crypto Market Caps - Prices, All-Time Highs, Charts",
+               "type": "url",
+               "url": "https://nomics.com/"
+            }, {
+               "date_added": "13233181375000000",
+               "guid": "dc2def51-a2fc-4420-8f5a-2a2ad0aba7b6",
+               "id": "240",
+               "name": "Il était une fois storybook, mon styleguide - Cap Collectif Tech - Medium",
+               "type": "url",
+               "url": "https://medium.com/capcollectif-tech/il-%C3%A9tait-une-fois-storybook-mon-styleguide-7730589793ad"
+            }, {
+               "date_added": "13233192804000000",
+               "guid": "28683f58-4889-4827-b974-6408e6101c3d",
+               "id": "241",
+               "name": "elderfo/react-native-storybook-loader: An automatic story loader for react-native-storybooks",
+               "type": "url",
+               "url": "https://github.com/elderfo/react-native-storybook-loader"
+            }, {
+               "date_added": "13233407356000000",
+               "guid": "f65fb912-c4d0-4afc-87b3-f24f46e0906d",
+               "id": "242",
+               "name": "Here are my favorite hacks for creating production level apps with React Native",
+               "type": "url",
+               "url": "https://www.google.com/amp/s/www.freecodecamp.org/news/here-are-my-favorite-hacks-for-creating-production-level-apps-with-react-native-6f0369d879b2/amp/"
+            }, {
+               "date_added": "13233620238000000",
+               "guid": "74bbe31c-cd6b-4664-8279-ebcf8fb392c1",
+               "id": "243",
+               "name": "React Navigation v5 + React Native Paper = ❤️ | React Navigation",
+               "type": "url",
+               "url": "https://reactnavigation.org/blog/2020/01/29/using-react-navigation-5-with-react-native-paper"
+            }, {
+               "date_added": "13233654349000000",
+               "guid": "bb3bd6ae-6314-4712-bd73-8d48ffb06219",
+               "id": "244",
+               "name": "Userbase: Logins and persistence for static sites",
+               "type": "url",
+               "url": "https://userbase.com/"
+            }, {
+               "date_added": "13234357676000000",
+               "guid": "f8f79792-3f92-4721-8c0a-3286349dac17",
+               "id": "245",
+               "name": "La liste ultime des API publiques – Korben",
+               "type": "url",
+               "url": "https://korben.info/la-liste-ultime-des-api-publiques.html"
+            }, {
+               "date_added": "13235003000000000",
+               "guid": "370a40f6-c473-4be5-9bc8-e74f5271a988",
+               "id": "246",
+               "name": "How to Replace Redux with React Hooks and the Context API — SitePoint",
+               "type": "url",
+               "url": "https://www.sitepoint.com/replace-redux-react-hooks-context-api/"
+            }, {
+               "date_added": "13238026817000000",
+               "guid": "f41ac494-04ea-402a-ad47-857edee04540",
+               "id": "247",
+               "name": "How Airbnb is Moving 10x Faster at Scale with GraphQL and Apollo",
+               "type": "url",
+               "url": "https://medium.com/airbnb-engineering/how-airbnb-is-moving-10x-faster-at-scale-with-graphql-and-apollo-aa4ec92d69e2"
+            }, {
+               "date_added": "13238342156000000",
+               "guid": "cc6bb241-915d-4521-8ddd-c7d48aab00e7",
+               "id": "248",
+               "name": "The Power of Akka Streams - Aleksandar Skrbic",
+               "type": "url",
+               "url": "https://aleksandarskrbic.github.io/power-of-akka-streams/?utm_campaign=Oktopost-TPC-The+Power+of+Akka+Streams&utm_content=Oktopost-linkedin&utm_medium=social&utm_source=linkedin"
+            }, {
+               "date_added": "13239543145000000",
+               "guid": "24a69720-a975-4a33-9dfd-ee6d06b68ffd",
+               "id": "249",
+               "name": "Using Golang in Production - My Experiences | Codementor",
+               "type": "url",
+               "url": "https://www.codementor.io/@tamizhvendan/using-golang-in-production-my-experiences-7ol9t1u6s"
+            }, {
+               "date_added": "13241219024000000",
+               "guid": "dccdd359-b4af-4b4a-9942-8830c663ed83",
+               "id": "250",
+               "name": "GraphQL with Go — server with signups, logins and data subscriptions | by Anton Ivlev | Level Up Coding",
+               "type": "url",
+               "url": "https://levelup.gitconnected.com/graphql-with-go-simple-server-tutorial-8678dbba20b9"
+            }, {
+               "date_added": "13243544165000000",
+               "guid": "a54d219d-e814-40ce-9c8c-6d58436c1f27",
+               "id": "251",
+               "name": "Goodbye, Object Oriented Programming | by Charles Scalfani | Medium",
+               "type": "url",
+               "url": "https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53"
+            }, {
+               "date_added": "13243979096000000",
+               "guid": "3b3cfcc7-098a-48dc-8b3d-3e81ee6d0738",
+               "id": "252",
+               "name": "A New, Simpler Way to Do Dependency Injection in Go | by Elliot Chance | Medium",
+               "type": "url",
+               "url": "https://medium.com/@elliotchance/a-new-simpler-way-to-do-dependency-injection-in-go-9e191bef50d5"
+            }, {
+               "date_added": "13245455467000000",
+               "guid": "25b510f7-acd2-46cd-9f83-ab93170863db",
+               "id": "253",
+               "name": "Event Sourcing and CQRS with Lagom! | by Ben Calus | Reaktika | Medium",
+               "type": "url",
+               "url": "https://medium.com/reaktika/event-sourcing-and-cqrs-with-lagom-b7190d92c78e"
+            } ],
+            "date_added": "13254672397186214",
+            "date_modified": "13258059879883756",
+            "guid": "00000000-0000-4000-a000-000000000902",
+            "id": "5",
+            "name": "Autres signets",
+            "type": "folder"
+         }
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13254672397186086",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Favoris importés",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13254672397186088",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Favoris sur mobile",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
