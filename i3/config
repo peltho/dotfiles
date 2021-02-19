@@ -11,7 +11,7 @@ font pango:monospace 8
 # start mopidy server
 exec --no-startup-id mopidy
 # autostart background
-exec  --no-startup-id feh --bg-fill $HOME/Images/background
+exec --no-startup-id feh --bg-fill $HOME/Images/background
 # Transparency
 exec --no-startup-id picom -b
 # Theming
