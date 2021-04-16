@@ -12,6 +12,8 @@ filetype plugin indent on
 set tabstop=4
 set shiftwidth=4
 set expandtab
+set termguicolors
+let g:Hexokinase_highlighters = ['backgroundfull']
 
 " NerdTree config
 "autocmd vimenter * NERDTree
@@ -61,4 +63,5 @@ Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 Plug 'dracula/vim', { 'as': 'dracula' }
 Plug 'ryanoasis/vim-devicons'
 Plug 'sebdah/vim-delve'
+Plug 'rrethy/vim-hexokinase', { 'do': 'make hexokinase' }
 call plug#end()
