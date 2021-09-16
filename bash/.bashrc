@@ -14,6 +14,7 @@ alias vpn='openvpn3 session-start --config ~/client.ovpn'
 alias cr='vim ~/CR/$(date -Idate)_cr.md'
 alias ya='yaourt'
 alias tz='echo -n "Los Angeles: "; env TZ=America/Los_Angeles date'
+alias qpn='openvpn3 session-manage -D --config ~/client.ovpn'
 #PS1='[\u@\h \W]\$ '
 
 [ -n "$PS1" ] && source ~/.bash_prompt

@@ -13,4 +13,6 @@
 	sl = stash list
 [user]
     email = thomasp@api.video
-    name = thomasp
+    name = Thomas_P
+[init]
+	defaultBranch = main
