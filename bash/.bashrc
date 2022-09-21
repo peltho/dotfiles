@@ -11,6 +11,7 @@ alias vi='vim'
 alias ncm='ncmpcpp'
 alias startedsvc='systemctl list-unit-files | grep enabled'
 alias vpn='openvpn3 session-start --config ~/client.ovpn'
+alias vpn1='sudo openvpn --config ~/client.ovpn --daemon'
 alias cr='vim ~/CR/$(date -Idate)_cr.md'
 alias ya='yaourt'
 alias tz='echo -n "Los Angeles: "; env TZ=America/Los_Angeles date'
@@ -32,7 +33,7 @@ export PATH=$PATH:$ANDROID_HOME/emulator
 export PATH=$PATH:$ANDROID_HOME/tools
 export PATH=$PATH:$ANDROID_HOME/tools/bin
 export PATH=$PATH:$ANDROID_HOME/platform-tools
-
+export PATH=$PATH:$HOME/go/bin
 
 # Docker rootless
 export DOCKER_HOST=unix://$XDG_RUNTIME_DIR/docker.sock
