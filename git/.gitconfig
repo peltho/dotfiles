@@ -12,7 +12,7 @@
 	sp = "!sh -c \"git stash pop stash@{$1}\" -"
 	sl = stash list
 [user]
-    email = thomasp@api.video
-    name = Thomas_P
+	email = thomasp@api.video
+	name = Thomas Pellegatta
 [init]
 	defaultBranch = main

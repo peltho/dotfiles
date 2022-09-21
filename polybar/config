@@ -96,7 +96,7 @@ type = custom/ipc
 ; Default
 hook-0 = echo ""
 ; Playing/paused show song name and artist
-hook-1 = spotifyctl -q status --format '%artist%: %title%'
+hook-1 = spotifyctl -q status --format '%artist%: %title%' | cut -c1-75
 initial = 2
 
 
