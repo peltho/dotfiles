@@ -19,6 +19,8 @@
 	offset-x = 12%
 	offset-y = 10
 
+    enable-ipc = true
+
 ; to center the bar be also sure to add gaps bottom [height of the bar] too
 	override-redirect = true
 	wm-restack = i3
@@ -45,18 +47,59 @@
 
 	modules-left = powermenu files apps network wired workspaces
 	modules-center = title 
-	modules-right = music alsa battery date
+	modules-right = spotify previous playpause next alsa battery date
 
 	cursor-click = pointer
 	fixed-center = true
 
 ; xrandr --listactivemonitors | awk '{print $4}' | tail -n1
 ; xrandr | grep -E "\sconnected" | cut -d' ' -f1
-;	monitor = DP-2
+	monitor = eDP-1
 
 ;--------------------------------------------
 ; modules                                   ;
 ;--------------------------------------------
+[module/previous]
+type = custom/ipc
+format-font = 2
+; Default
+hook-0 = echo ""
+; When spotify active
+hook-1 = echo ""
+click-left = "spotifyctl -q previous"
+initial = 2
+
+[module/next]
+type = custom/ipc
+format-font = 2
+; Default
+hook-0 = echo ""
+; When spotify active
+hook-1 = echo ""
+click-left = "spotifyctl -q next"
+initial = 2
+
+[module/playpause]
+type = custom/ipc
+format-font = 2
+; Default
+hook-0 = echo ""
+; Playing
+hook-1 = echo ""
+; Paused
+hook-2 = echo ""
+click-left = "spotifyctl -q playpause"
+initial = 2
+
+[module/spotify]
+type = custom/ipc
+; Default
+hook-0 = echo ""
+; Playing/paused show song name and artist
+hook-1 = spotifyctl -q status --format '%artist%: %title%' | cut -c1-75
+initial = 2
+
+
 [module/music]
 	type = internal/mpd
 	host = 127.0.0.1
@@ -107,6 +150,10 @@
     menu-0-5-exec = notion-app
     menu-0-6 = 
     menu-0-6-exec = postman
+    menu-0-7 = 
+    menu-0-7-exec = spotify
+    menu-0-8 = 
+    menu-0-8-exec = sqlectron-gui
 
     label-separator = "    "
 
@@ -135,11 +182,11 @@
         label-connected =  %essid%
         ;label-connected-foreground = ${colors.primary}
         format-disconnected = <label-disconnected>
-        label-disconnected =   No network
+        ;label-disconnected =   No network
 
 [module/wired]
 	type = internal/network
-	interface = enp56s0u2u4
+	interface = enp2s0
 	interval = 5
 	label-connected =   Connected
 	;label-disconnected =   No network
@@ -240,11 +287,11 @@
 	label-focused-underline = ${colors.primary}
 
 	ws-icon-0 = 1;
-	ws-icon-1 = 2;
+	ws-icon-1 = 2;
 	ws-icon-2 = 3;
 	ws-icon-3 = 4;
 	ws-icon-4 = 5;
-	ws-icon-5 = 6;
+	ws-icon-5 = 6;
 	ws-icon-default =  
 
 	label-focused            = %icon%

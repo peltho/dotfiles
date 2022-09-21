@@ -10,6 +10,7 @@ sysmodmap=/etc/X11/xinit/.Xmodmap
 # merge in defaults and keymaps
 
 setxkbmap fr
+eval $(ssh-agent)
 
 if [ -f $sysresources ]; then
     xrdb -merge $sysresources
